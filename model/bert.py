@@ -16,7 +16,7 @@ class BERT_classifer(BertPreTrainedModel):
     """
     def __init__(self, config):
         super(BERT_classifer, self).__init__(config)
-		NUM_EMO=4
+	NUM_EMO=4
 
         self.num_labels = 4
         self.bert = BertModel(config)
