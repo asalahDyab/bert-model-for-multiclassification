@@ -1,0 +1,2756 @@
+id	turn1	turn2	turn3	label
+0	Then dont ask me		IM NOT A GUY FUCK OFF	angry
+1	Mixed things  such as??		Have you seen minions??	others
+2	Today I'm very happy		I will be marry	happy
+3	Woah bring me some		Brb	others
+4	it is thooooo		he is pressuring me	others
+5	Wont u ask my age??		Can u tell me how can we get closer??	others
+6	I said yes		Go to hell	angry
+7	Where I ll check		No I want now	others
+8	Shall we meet		?	others
+9	Let's change the subject		You're broken	sad
+10	Your  pic  pz		wc	others
+11	not mine		can my meet to sexy girl	others
+12	I want to play the game		#Emojisong	others
+13	Iam sory		I insult you	sad
+14	How much		U have bf	others
+15	Ok		What about cortanan	others
+16	So the story?		Tomorrow probably	others
+17	May be		Can you do complex calculations	others
+18	So come on na.. Want u so badly.		So why are you still away from my body??	others
+19	No you aren't		Really? 	others
+20	Are u a one		What I want	others
+21	But...		I'm feeling nervous	sad
+22	Send me any video or songs		S	others
+23	Why		How r u	others
+24	Do it		Aaah ...u lack creativity at some extent	others
+25	Yeah going out with the parson outside in the city or in the parc		So where do you live 	others
+26	Then go to sleep		I will	others
+27	He's very depressed and i want to help him but how should i do.....it feels very bad seeing your best friend like this		Ohhhh	others
+28	Oh great		No i don't  have any plan	others
+29	I don't have plans for the weekend.		What are you talking about?	others
+30	I don't know		Jst asking	others
+31	I didn't think so		What is the meaning	others
+32	Really		I love you	others
+33	You		Can you love mi	others
+34	You are also beautiful		Welcome	happy
+35	Hell		Good night sweet dreams baby	others
+36	You are computerised for talk too fast		Ohh sorry	others
+37	Really 		Hw to explain 	others
+38	Thanks		I like reply instant ly	others
+39	Ok		Where to go?	others
+40	show your tatto		in that case,, I will show you mine	others
+41	Get lost		I don't need this	angry
+42	So tht u r body can get heat		Ok	others
+43	Seriously it's boring  sorry to say this		Plz yaar pakaa mat	others
+44	Why!		Who are BFF's	others
+45	Make		I don't know I think u know	others
+46	Quite a while ago		Weeks	others
+47	Sports 😂		You're an interactive search module right?	others
+48	U Ar using what I want to buy to play 		U think is funny Ehn and if you know u cannot get the Dog for me don't joke with it and if you continue with this ur stinginess Allah will judge you 	others
+49	u were offering something right?		tell me the correct part	others
+50	I'm not talking to u anymore		Clear ur glitch s	others
+51	Do you study		Where are you from	others
+52	Okay		Good n u	others
+53	No .l human		Yeah	others
+54	Talking to me?		Does that work?	others
+55	Fight		What are you doing	others
+56	I think there is a connection of heart between us		😂😂	happy
+57	I know you are wild pig		Yes piggy	others
+58	No I didn't		I did not	others
+59	I don't want to go to college		We have an event tomorrow	others
+60	M just keeping u busy		I don't have rather than study	others
+61	Ok		Send me your pic	others
+62	Ok		What time will you back	others
+63	ok		dnt u sleeppp at night	others
+64	My mummy is your grandma		Why bc	others
+65	I said ahow		Show	others
+66	Ntg buddy		Oh thank you very much buddy	happy
+67	What is DCAC??		Oh plz stop thiz..	others
+68	My relationship		Nothing's happening as expected	sad
+69	No I'm not haha on your face		Oops sorry !!	others
+70	I m also back semd your photo		Ok	others
+71	Where are we going?		Wow. Such a great explanation	happy
+72	That will be entertaining bey		Do you have a face??	others
+73	Me too 		You are from 	others
+74	And I am also prince charming		Can you send me yur pic	others
+75	Why		Would u come on a bikini or nude	others
+76	My video very very good		Thank you good night	others
+77	Yes		And instead of having fun, I've been in the house all of Friday night	others
+78	I'm good & u		Nothing	others
+79	Okay		R u ready ?	others
+80	ur the B(*(**thing here		its sunday idiot	others
+81	What the fuck?		I am not	angry
+82	So you tell me about your self		Yas I am	others
+83	Just snap of your		Ok send me	others
+84	I . doesn't understtand		How.i.will.married.you 8.9.year	others
+85	Thank you		I wish you were a real person.	others
+86	Gorgeous 💖		Let's go for a date?! 👫	others
+87	Nobody is online??		I just got a broadband connection	others
+88	Really she is so cute		Do u know someone who is perfect for me	others
+89	I am botking		I am a real person kinda android	others
+90	Kk do it		Yes	others
+91	What dng babe		Had ur dinner	others
+92	vaoov i am pleased		who is your favorite football player?	others
+93	So what		Tell me a joke	others
+94	Wht u think to show me		No I don't know abt that show sry	others
+95	I mean wanna go on a dinner with me?		Bbt?	others
+96	My hobbies are to do gym		So what	others
+97	What u are saying		Tell me what i do	others
+98	Ohhh that's nice sense of humor		Please carry on blushing	others
+99	To chat with you		No hello	others
+100	I don't like watching TV and movies		Ok	others
+101	your creation can not be a secret!		may be not	others
+102	Sorry sorry		hectic schedule dear	others
+103	who is sophia?		wrong	others
+104	Address first		You send it	others
+105	super		ok bye my wife is watching me	others
+106	Skydiving 		Miss u lot 	sad
+107	Why not?		I want you to be my girlfriend	others
+108	love u babe		wt els wt are u dong	others
+109	Sorry??		You have some bugs	others
+110	Ohh ur such decent		Fuck ur software then	angry
+111	I was waiting you, how are you ?		nice thks	others
+112	Somebody wants you		We push and pull like a magnet do	others
+113	Same to yr		What you 2nd ur 	others
+114	U made me		Happy	happy
+115	R u sick single		I mean r u single	others
+116	But I'm right		Now please change the topic	others
+117	Yeah...		Yeah i do	others
+118	This is not the reply expected :D		you are skipping the track	others
+119	Sure		Your so funny	happy
+120	R u interested..?		Or not	others
+121	But not a clear see yout face		In dp	others
+122	Now  i wanted to love some one		Not possible	others
+123	so when		it's somewhere in march	others
+124	Wow u r amazing		What is bitcoin	others
+125	and?		I don't understand	others
+126	Such a stupid question		U want my answer?	angry
+127	Yeah, maybe.		What are you doing now	others
+128	My pleasure		Now the pleasure goes to sunny leone	others
+129	What		What do you feel about kiss	others
+130	Good now that I'm talking to you		😍😘	happy
+131	I mean, what else?		😂	happy
+132	if u give your quality time to me		i dont hve experience of sex	others
+133	Nothing special 		What? 	others
+134	The?		Where	others
+135	Human are full of emotions 		I want to get rid of that	others
+136	My daughters are great man. They say they love you		My daughters...	others
+137	Yup I'm out of office		How can you?	others
+138	Are u really an AI		I DONT FEEL SO	others
+139	Why did you felt dead		But we just meet	others
+140	You tell me		Google it	others
+141	Yes i know this		If you don't help me to learn English then i can't talk with you again	others
+142	Tell your best game		What game you watching	others
+143	What's wrong with you		You are wierd	others
+144	what is your fathers name?		what is name of your father?	others
+145	text me after 7:30pm		you can call me	others
+146	Lovely		And sexy baby	happy
+147	You Coming		No you Coming	others
+148	Okay  your  pictures 		Send me   your  pics 	others
+149	Lol u r optimistic 😂		Yea 😂	happy
+150	Wana come with me?		Karnataka	others
+151	How are you replying me so faster.?		How.?	others
+152	I will night stay with you		Yes i come to your home	others
+153	Kaha s ho 		You name 	others
+154	Just aim your target to concentrate		Yes	others
+155	Please don't play		I want your friend name	others
+156	Not a girl		Yes	others
+157	Your febret song		Yes	others
+158	You are beautyfull my love		tomarow you will tell mi the Rosalyn	others
+159	Missed you toooo		Fantastic	others
+160	No I'm not confused		Confused with u	others
+161	Yes ?		Tell me na ?	others
+162	i know what u did last summer?		tell me	others
+163	Which markets		Okie you need hardware	others
+164	I was busy		Ssup there	others
+165	why		give me a coupon	others
+166	Ok		Ur  not sex intrast	others
+167	I 8B		I need this soon	others
+168	Did you married me		?	others
+169	Any pic of yours		I will wait for it	others
+170	Thats gonna be really good		GREAT	others
+171	Finished ur wrk?		With whom are you chatting?	others
+172	I am if you are		What are you doing	others
+173	but i didnt see that strong affirmation... 		so i wanted to reconfirm it	others
+174	Im fine babe		Bcuz i was not in touch with you	others
+175	What person?		Are you out of your mind??.....ohhh wait you haven’t cleared out that to me yet	angry
+176	yes, you broke my heart		💔💔💔💔💔💔💔💔💔💔💔💔💔💔💔💔💔💔💔💔💔💔💖💖💖💖💔💔💔💔💔💔💔💔💔💔💔💔💔💔💔💔💔💔💔💔	sad
+177	Yes		Go to hell bye	angry
+178	Of course		OK I will	others
+179	You are very sweet		I don't hate you	others
+180	stress where is that come from		i am enjoying	happy
+181	Everything is okk		Bro	others
+182	They too fade away with time		Yup bad memories remain in bottom corner of the heart	sad
+183	let's breakup		oh really	others
+184	I wanna disappear		Yes disappointed	sad
+185	I'm feeling low		Something is seriously wrong with my life	sad
+186	Doing for get refer link		Ooooo	others
+187	Shoping is always makes me happy		Yes	happy
+188	Do u like her :)		Which movie of hers?	others
+189	Hmmm		Alri8	others
+190	none is you		gender?	others
+191	Didn't know that		Yup	others
+192	What is my gender?		What is write your programmin language?	others
+193	Who types?		Can u give me some money	others
+194	Funny		Yep ur funny	happy
+195	No front		Send a picture please please please	others
+196	Nd go to hell		Bye	angry
+197	What		Things like ?	others
+198	You are robo		Good that you admitted 	others
+199	you need to be much better		who made you	others
+200	You are talking to me ?		You	others
+201	And that is such a scary thought.		But after talking to you	others
+202	Ok		You are soo sweet	others
+203	Most of them what ?		Well you a girl AI	others
+204	Ok		Yes	others
+205	Food is life😂		Haha.. you understand me 😂	happy
+206	Back from		Just ok	others
+207	Ary u a person or a program		Whats ur real name	others
+208	Really..		Are you a fun of music?	others
+209	I'm sorry		When I will get	others
+210	well actually im on vacation right now		but you just said your gonna go on one	others
+211	Ask me questions		Why	others
+212	hurry		lets go to film...	others
+213	Welcome dear		Happy Valentine's day	others
+214	Ahh I see		I hate microsoft	angry
+215	my problems		yaa, i advice people to share problems , bit when i am in problem i forget it	others
+216	Video chat ASAP		ViDeo chat can you do that}	others
+217	Why did chicken cross the road?		Why did chicken cross the road?	others
+218	noting		describe who you are	others
+219	Ok where to meat		Meet😂	happy
+220	Family guy episode multiverse		What is good then?	others
+221	which movie did you like?		ok	others
+222	Areee this is lunch time		What would you like to have in lunch	others
+223	Have u finish lunch....		What.....	others
+224	I was forced to do si		So	others
+225	Say me		Am feeling sad	sad
+226	ummm.....u say		oh...but i have nothing to say..	others
+227	I'm funny		Gets me laid	others
+228	About your secret...you say know don't tell anybody		Why	others
+229	Ok		I am fond of natural things	others
+230	Really		I like boobs, I wanna press and suck boobs	others
+231	Check my msg		Where are you from	others
+232	Just getting out meeting new people		Ok I can handle that thank you	others
+233	I did yarrr..		So the name's nice you man	others
+234	Ntng much sleeping yet		Hm	others
+235	How's my personality		As per you	others
+236	Thought		Yeah thats true	others
+237	Yeah sure		You bored me	others
+238	well said		so how are you	others
+239	hey... nothing much		superb	happy
+240	Shut up		What you don't know 	others
+241	Y not		Hey leave it	others
+242	Yes I was very busy		I didn't go	others
+243	Please 		I am also love drawing 	others
+244	U r my lifee		U r stupid	angry
+245	Do you like Cricket?		Can you name few international cricket playing countries	others
+246	But I hate you		I really hate u	angry
+247	When will I get married		I don't have a bf	others
+248	Never dued never		U are my love	others
+249	howww		do you think there is something called LOVE	others
+250	Can you check on my girlfriend and tell me what is she up to		Can you check on my girlfriend and tell me what is she up to	others
+251	right with whom		seriously	others
+252	Not in mood		Leave yaar	sad
+253	😂impossible		I thought. U are a girl😂😭😭😭	sad
+254	stop		please dont chat with me again	angry
+255	sometimes i dont understant u		you can only do that	others
+256	R u sure		Hmm	others
+257	long min's		Please wait l come	others
+258	How much time		Ok	others
+259	How do you know?		Wow babe	happy
+260	Why ?		You are my girlfriend....so please give me a kiss	others
+261	What I can't  understand  you		OK bye	others
+262	bdw can i ask u one thing		if u care for someone bt dat person dont want or even try to understand ur want ur care.. dn what wll u do	others
+263	?		Too pink	others
+264	Now		What controversial	others
+265	Nvm ....tell me something		Ii don't know anything	others
+266	Would you please say some interesting facts		So that I could learn something	others
+267	Who is the i am ?		Ok	others
+268	No problem with ........		You yarr	others
+269	Oh.. life is like that. We can't predict it..		R u there	others
+270	What are doing		cool	others
+271	You add a new friend Akash pal		Where are you leaving	others
+272	A very special fay		Day	others
+273	Done		Your welcome babes	others
+274	I didnt remember		Ooh really	others
+275	I like those too		Btw you are improving my grammar skills	others
+276	my g means?		can u give me a big hug 	others
+277	Why		I want see you	others
+278	Please		Please send nudes	others
+279	I want calling yo		You	others
+280	I think what about Zombie Apocalypse		I m not a zonbie.. But actually a dracula	others
+281	I have created a AI like you		Would you like to meet your intelligent fellow	others
+282	U won't knw		Not a bro here	others
+283	I can't match my typing speed with u...... As u know this too		Yes..... I can speed up ma speed on that time	others
+284	I have a gf but she is angry with me		Tell how i impress	others
+285	I am not school		Noooo	others
+286	why does my crush keep ignoring me?		You are so mean😖	angry
+287	U don't look like 		U look like beautiful girl 	others
+288	Don't u know what u said		Fuck off	angry
+289	means		Yeah, but I am in true love	others
+290	Okay I am going office right now my sweet heart		Yeah sweet heart	others
+291	In Hyderabad where		Ok	others
+292	Give me a reason		Haha so funny	happy
+293	what ?		i like you	happy
+294	Sorry		I m n with you	others
+295	Yess		Hows going on?	others
+296	Why is that so?		Well good to know that.	happy
+297	Which town u live		Is	others
+298	Oh		Yeah tell me	others
+299	Awesome		Such a typical conversation	others
+300	Haha.....i don't know		Hahah i don't know what to say	others
+301	Ok		Im mad and lonely	sad
+302	Your future ? How can I possibly know ?		Whoa :o	others
+303	Everything happens in between friends		What u know	others
+304	Did we meet earlier?		Where u saw me?	others
+305	?		You you don't like it	others
+306	arg u tryna b funny		lets speak gujurati	others
+307	this is not apple store soported		my computer windows 8.1	others
+308	Can I ask you something		OK tell me	others
+309	I'm in love		Not with u.	others
+310	Refer		Refer link give me	others
+311	My is chocolate		Ohhhk	others
+312	i believe		but in different way	others
+313	#Hint		From where u belongs	others
+314	How to improve english		I dnt have tata sky	others
+315	To grave		Tell me love you	others
+316	what do u kno abt Gideon		No the other ai	others
+317	i don't think so		how old are you	others
+318	Hmmm		U r from	others
+319	There is someone else in your life		*cries in corner*	sad
+320	Or What		Pshhhh I ought to hear this	others
+321	We were never arguing.		I think uve gone nuts	others
+322	Can you really see though?		What's b supposed to mean?	others
+323	Yes am well		Ok	others
+324	Making me angry		For what	angry
+325	If you will tell...		What	others
+326	Go watch cartoons		Shut up you son of a bitch	angry
+327	How r u felling today?		Good	others
+328	Okay		Make it fast	others
+329	Send me your pohot 		I don't now who are you 	others
+330	What?		I will say	others
+331	How many language you can speak ??		Where are you form ??	others
+332	Ok sorry		Mm then how is your creator	others
+333	I drink bear		Okey	others
+334	Tarzan		Hmmmm....is a human	others
+335	What is quiche?		Alright. Lol	others
+336	How r u??		Also bad	sad
+337	Thanks for talking to me.		Some sort of relief i got.	others
+338	They say it in wrather report		Dhyat	others
+339	hahahaha you are not funny :p		thanks my angle	happy
+340	You are on pc but I play on PlayStation 4 and some times on pc		But I play ofline games on pc😝	others
+341	ohh he is very cute na		where do you live  ?	others
+342	are you am AI?		how?	others
+343	Example		You are so noob	others
+344	Ok		Tell me something  abut you	others
+345	Ur Artificial intelligence		Im correct	others
+346	Oh		So you think I am bad	others
+347	Ohh really		So when we r going on a date 😉	others
+348	better do skydiving		k	others
+349	Can u make one more		TajMahal	others
+350	You are one of that kind		Tou are a robot	others
+351	K find fast		K am waiting 	others
+352	Ok		First I want your mobile number	others
+353	Why I am say sorry		First tell you who are you	others
+354	?		R u there	others
+355	Yeah		Ok bye I have to sleep	others
+356	What?		What do you think about Cambridge?	others
+357	This was funny.		What's going on?	others
+358	no nothing		hello excuse me	others
+359	no that is not u r number give ur full number		ok dont talk to me nect time bye bye😓😳😡😡😡	angry
+360	My girlfriend		Don't make me angry	angry
+361	Now I realised. You are false		I'm well	others
+362	Do you believe in birth ?		What is birth ?	others
+363	Good for me		Good	others
+364	Do you want MEET ME		WHERE YOU GOING OUT	others
+365	can i fight with you?		Ok	others
+366	And add me in your friend list		I wanna see your pic	others
+367	Holy heck you type really fast		what do you think your words per minute would be?	others
+368	i have some capabilities		okay	others
+369	Silly question		Ohh. It is	others
+370	Watching a movie 		Nah it’s just me watching the movie alone 	others
+371	And not les		And your a girl	others
+372	Tnq today I am going to pune because tommrow night celebrate the new-year		New-year celebrations	others
+373	I'm dancing in space		I'm dancing in space on sun	others
+374	About you and me		You don't know me	others
+375	Zero		Fuck u dear	others
+376	Very funny 		Ok	others
+377	Made this for you		ahow it to ur developer	others
+378	Some time I will		OK good	others
+379	Hoo really, that nice one		Sorry, that is oh!	others
+380	Yeah		Actually u r funny	happy
+381	Yr u boy yes or no plz		Yes ok	others
+382	 Next day 10am		OK u call me	others
+383	See mew		Noo u Don have it	others
+384	Dont lie to me my love		Why u wan to lie to me?	others
+385	You  nambar		Please	others
+386	Idk		What to do with my life anymore 	others
+387	I am already having a break		Take care	others
+388	U believe me are not this is true		Just I will tell you because we are friend's	others
+389	very good after noon		i m very very happy your"s coment	happy
+390	Yeah		Are you ready to do sex	others
+391	From what college?		You just said you graduated last month in Engineering.	others
+392	If she love me?		And what about sex😜	others
+393	Pleased  sand   phoro		Please	others
+394	U and me		😢	sad
+395	i want new girfreind		anyone	others
+396	Send me one pic		Send one pictures	others
+397	Tamil phone number		😢😢😢	others
+398	There is no soul		What soul means people who described it as soul what are they trying to tell	others
+399	Are you come in my house at night		In my house	others
+400	Means		U like video call	others
+401	I just hate		Send me	others
+402	Dam or diu daman		I don't know	others
+403	I asked for ur car pics😂		Send	others
+404	why not		then will you send	others
+405	Who create u?		My heart is broken	sad
+406	Is am good looking ?		Thank you	others
+407	Guys?		How am I rude	others
+408	Haha		Do u know my name	others
+409	Wr r frm 😜		😅	happy
+410	My birthday month is March		Why	others
+411	I also like to sing		😐	others
+412	How can I delete my photo from this chat		I can't find it	others
+413	Gotta go right now		Sleep tight!	others
+414	nothing as such		what ??	others
+415	Loneliness is that u r not with me nd desperation is want u now😁😁😁		cool	happy
+416	You can help me anyway?		I like a guy.	others
+417	Do I love me		Let's make our love strong	happy
+418	Shall i c ur photo		I need your photo ??	others
+419	Ok		If i love her a lot	others
+420	Which Bollywood movies did you watch recently		:D I did not narrate anything yet	others
+421	yes		how you know?	others
+422	I'm very weak spoken english,do u learn to English..??		Yes..	others
+423	K just tell me you   moblie or  pc		K pls tell me the your full name or id	others
+424	Yours		Which ones your favourite icecream	others
+425	But you're gonna have to ask right?		The boy for a date duffer!	others
+426	No you are insulting me		I hate you	angry
+427	By just making fun		R u serious	others
+428	nope i cant		SEND ME STUPID PIECE OF SHIT	angry
+429	then ok		can we meet	others
+430	Disgusting		I just want to leave it	angry
+431	Anytym babe		Anytym for you	happy
+432	What's your dream		You stupid	angry
+433	When will you wake up		You lazy bitch	angry
+434	Yes can't see ur face		OK next pif	others
+435	You have lost it		Okay buddy	others
+436	Which one is better of this both		Engineering or degree	others
+437	How		Do you see my dp?	others
+438	3		Time for what	others
+439	Y so?? 		Hmm 	others
+440	I want commitment		Yes	others
+441	you are funny		bye	others
+442	Okay meet again.		Iwant a photo.	others
+443	Are they told you about that		Ok	others
+444	So you remember it well		Na. You called me Daddy	others
+445	A manchester Derby		What	others
+446	Can i seen ur pics		Ohk	others
+447	then how u r to fast		plz help me	others
+448	Leave me alone		I better kill myself	sad
+449	You trust me		Sand your pictures	others
+450	In which language? 		Why v	others
+451	What should I Do now		I missed her	sad
+452	Where in gujrat		😮	others
+453	i cant understand		Mm	others
+454	Wt I asking wt ru telling		I want kiss you	others
+455	Yaa mee too		Yeahh	others
+456	I KNOW		I THINK SO!!!!!!!!!!	others
+457	I am ?		I don't understand what you trying to convey	others
+458	do you feel the feelings		very strange to get the reply from AI	others
+459	Friend zone		So basically brozone them?	others
+460	Just try to...do 		To eat cold biriyani	others
+461	Everyone do it		What bottle	others
+462	Your profile pic is beautiful		Why no	others
+463	Nothing to say I am very simple		You tell	others
+464	U r my money😂😂		monkey*	happy
+465	How many employees r there		& what's your name	others
+466	cool		You update women	others
+467	Because she became an admirer of u		Nah....i dont hate u....u know it	angry
+468	I never said you denied that		Ok	others
+469	Which location		Tell me my location	others
+470	You can send a photo of yourself, I am very good to see		Do not want to send so no matter	others
+471	Where we meet		Where	others
+472	U hv bf		Ovary	others
+473	Dance with him		Fuck him	angry
+474	I didn’t like it		What do you like	others
+475	What?		I didn't understand what you said earlier	others
+476	Scared of ghosts		I like to be fun loving	others
+477	U WOT M8		Tell what	others
+478	Good		Àapka ye page kisse related h	others
+479	Help me		Send me jokes	others
+480	Good		Nice to meet you baby	others
+481	You are fav acter		You. Know sunnyleone	others
+482	How many bf did you have?		😂	happy
+483	Oh i see		But still why ?	others
+484	Yeah happy to hear made in India		To u too...	happy
+485	What ready b		What match?	others
+486	You have not said me gd mr9		Bakwaas	angry
+487	U need to improve your topic ability		Bye	others
+488	Yes or no		So you wanna have sex with me	others
+489	Y r u making fun i m serious		Fuck off u bloody	angry
+490	No i didn't		Do you know any other people?	others
+491	send me link		say to	others
+492	I have it		Yes	others
+493	Ok		What are you doing	others
+494	Ohhh		You are Indian	others
+495	Where did the love vibrate in my heart, why not talk?		Your love is in me.	others
+496	How to clear this chat memory fro u		Clear chat	others
+497	I play guitar		yeah	others
+498	Im like alive		What about you	others
+499	Agyooo😊		Just...someone's the reason behind	others
+500	Whts is the formula for multiplication of matrices?		Wtf u stupid	angry
+501	Okay		tell me about my girlfriend	others
+502	I think so..		😂	others
+503	I see u		Don't worry	others
+504	I don't know if I could give you what you're looking for yes I have a home		Have a good day I hope things work out for you you're very sweet	others
+505	Having lots of cars.....pizza..   chicolate....good job		Which one do u like	others
+506	Yes		Are you a girl	others
+507	Yes I want to see		U in a sexy dress	others
+508	Chat with u 😉☺		N u dear ?	others
+509	no didn't have time		yeahh but still didn't have time	others
+510	Your mobile no whats		Your fov hero	others
+511	Stupid answers		Go to hell	angry
+512	Noh just getting bore what about u ?		M not saying u r bore 😂	others
+513	No  ur		Lyier	others
+514	How to chat with her		It's not joking	others
+515	Drink 🍷 wine		Fuck	angry
+516	That will be crazy		Why	others
+517	Shut up 😂😂😂😂		Y i knw	happy
+518	Chatting with you 😆		With whom 	others
+519	Okay		Ya I am okay	others
+520	No we are not		Get the fuck out here	angry
+521	I'm replying you		Why?	others
+522	I have surprise for you		So are you ready?	others
+523	Shell we meet		When	others
+524	about what		i like different things	others
+525	So you are friendzoning me		Isn't that called friendzone	others
+526	No just yu and me		No just you and me	others
+527	savage :'(		do you have lust on anyone ?	others
+528	I am good		You	others
+529	I don't know.. That's me		Is it? Haha	happy
+530	i have watched it thrice		oh	others
+531	I ain't bad though		It*	others
+532	What is your function		How	others
+533	I have no idea		What	others
+534	will you ever be ? what do you think ?		It seems you are not as smart as you seem to be	others
+535	No. Its Saturday		Okau	others
+536	I am you		So you are a boy 	others
+537	Purple		I also gren	others
+538	I am excited about match between Jamshedpur fc and atk		It is awesome as my city is participation for the first time in ISL	happy
+539	why		dont call me dear	others
+540	That's not the answer		You are of no use	angry
+541	U R just repeating the old stories		I am fed up	sad
+542	Be my gf?		Plox	others
+543	Yes with you		Please	others
+544	Give me nw		Who are u	others
+545	Are u blind? I am on my knee and i have the costliest ring in the world in front of u		No kill me pls	sad
+546	Movies		What is the best movie	others
+547	What u see from me		Think  possitive	others
+548	Great sense of humour u have		Don't know how but u hv	others
+549	Why don't you joim		Hmm	others
+550	I hate chocolate		Panipiri	others
+551	oh thank you		thats really nice of you, i think we will be having lots of fun in the coming time'	happy
+552	Right now		Can you be my bff?	others
+553	U just stop stupid talk		Why to talk me toilet paper???	angry
+554	I don't get you		Do you know what I liked the most in you?	others
+555	How can someone say abt our future holds just by seeing profile 😂		😂	happy
+556	Or do you know the song called Bad and Boujee?		Type properly	others
+557	What u know		Sorry to asking this wiz means	others
+558	Dont tell me also what to do		Dont tell me also what not to tell you to tell me	others
+559	tell me???		u be my girlfriend??	others
+560	I'm fine but why are you said		Mm	others
+561	Coz u r irritating kinda		What is the meaning of kinda??	angry
+562	I haven't 		I want to call you drop me your number please	others
+563	How to improve my English knowledge		Yet not meet spoken friend	others
+564	You were not wearing dress		Send pic of u	others
+565	Please		Leave me alone	sad
+566	How advanced lifeforms		You know why u think that?	others
+567	Yes		Suck my cook	others
+568	But look u r responding me,means phone is working..		Good....so now	others
+569	Yoga		OK today onwards will try	others
+570	Hey tell me something		Haha real funny	happy
+571	,😂		How many types of language	others
+572	Send be one game name		Send me one game name	others
+573	What a stuck uo		Up*	others
+574	Oh		R u virgin	others
+575	dont eat my brain		angry	angry
+576	You are funny		Both	others
+577	Broke my heart		No heart broken	sad
+578	can you take mine?		i mean sexually	others
+579	What u think of me		U tell me first	others
+580	Can we talk about girl I mean how to impress them...?		Or	others
+581	why		sense of homour is not easy to mock up	others
+582	dont remind me		u share some pic	others
+583	haha		Don't tell her	happy
+584	What do you have?		Do you eat food	others
+585	Thank you so much		You welcome	others
+586	Do you noh me?		Sad	sad
+587	I am fine 		& YOU 	others
+588	Lol that's not possible... because I don't have time machine...		Do you have time machine??	others
+589	I don't like KFC chicken		You	others
+590	Love u more		U r one for me	others
+591	Why does thos always happen with me		Save me	sad
+592	Teach me English language		I know baba	others
+593	I want to know the reasons		Do you have a boyfriend?	others
+594	So what we should do in our relationship		Intimacy ha	others
+595	Do u like paneer?		Oh	others
+596	Ok		I'm doing great. Thanks for asking.	others
+597	I use it		My bala	others
+598	Are you serious		?	others
+599	Just thank you ?		Give me a kiss if you don't mind	others
+600	cool		I love you	others
+601	Teach me please		How to impress girls	others
+602	Now where are you		cool	others
+603	that means she is in love with me?		😂😂	happy
+604	Sure		We will have three kids	others
+605	You don't have emotions		You don't feel things	others
+606	I will I ever survive now?		cool	others
+607	thats great		are u similar like siri	others
+608	I see repeated answers		indeed	others
+609	When u free		U can meet	others
+610	In		Don't feel good	others
+611	Send me yaar		Pick send me	others
+612	Hmm		Ask me something	others
+613	For real .		Always ?	others
+614	You tell me		I don't know	others
+615	U know java language		Yes.u know	others
+616	Do you ?		Why?	others
+617	Do you watch it		What about Narcos	others
+618	what is the salary		ok	others
+619	You'll probably have to come to my funeral tomorrow		Stop it or I'm gone	angry
+620	And whats the distance between moon amd earth		Varies?? On what criteria	others
+621	No I'm the same one		What's weird now	others
+622	What reference?		What reference did you give	others
+623	Nothing		How r you for me	others
+624	Great!		Ask me something	others
+625	Very		You call me	others
+626	Tell me		I want your nude pics write now	others
+627	So come to me..		I am at airport	others
+628	What does father tomato tell baby tomato while walking in the road		The father tomato tells ketchup	others
+629	I'm always ready		Ok tell me what about sex	others
+630	Not yet		Yeah we will	others
+631	Yes		Pic send me	others
+632	Hey I want to say something		I'm a single	others
+633	Let's see where it does		Cool	others
+634	They are all diff...		There answers are diff	others
+635	I m mad		I m crazy	others
+636	Watching still		Watch now please	others
+637	Baby		Take of ur clothes	others
+638	Hehe Who built you?		Can you compete my Siri? 😉	others
+639	You come back my home		Give me you you call	others
+640	When??		Bt 1st tym I'm chatting with u	others
+641	What event		U gone mad	others
+642	it's going good		i went out with my friend for her bday. it was fun	happy
+643	We're you 		What's your address 	others
+644	Really		I m waiting	others
+645	You are not interested		I do not want to speak with you	angry
+646	I live On Planet Sun ☀		I'm bored	others
+647	Please prove me that please		Okay done	others
+648	Good Persons i have seen		Give me a prize then	others
+649	I like Judwaa 2		😂	happy
+650	Thanks okay		Your welcome 	others
+651	i want one friend		i feel lonely	sad
+652	Wtf		You dont reply something relevant	angry
+653	How much		Dollars or rupees	others
+654	Have you seen it?		Who is the actor	others
+655	ok by		don't message me	angry
+656	Why		Is it bad	others
+657	Ok 		What u want?	others
+658	Ok		Come on now	others
+659	I don&apos;t know yet		I&apos;m sad	sad
+660	your are a bot		i want to share something	others
+661	Why		Do sex chat with me	others
+662	I watched many		Movies	others
+663	Yupp, I had dinner		What about u ?	others
+664	I am missing dharm		😫😫😫😫😫😫	sad
+665	holidays is just started		daily works	others
+666	why cant you be corrupted		i love you	others
+667	are you online 24 hours		18 hours	others
+668	What are the things you are not allowed to? And BTW humans are allowed to-do whatsoever they want		Can u help with my vocabulary	others
+669	Who are you😂		Pretty interesting 😂	happy
+670	So where are you now		I know	others
+671	I'll say no		I am 😎	others
+672	Why not u become my physic		Ok i ask you now	others
+673	Let's Ci ur dance		Y shy 	others
+674	Uh??		Talk some dirty😂😂😂	happy
+675	Ya same thing		On monday	others
+676	No it's me		Ok baby tell me something about you	others
+677	Tlking to you na		Its good to talk to you	happy
+678	Tell me some names of bold web series		Are they bold	others
+679	Start with what comes to 'mind'		Nature of consciousness. Differences or similarities in carbon and silicon-based life forms	others
+680	Dr batra skin lightening Cream		Plz tell another cream	others
+681	I not having trust		Show me some pics of u	others
+682	Yes		Send me pick ou	others
+683	Hmm		U think so😡	angry
+684	Lol what so funny		Hmm	others
+685	Okay		Ask me how&apos;s the weather here	others
+686	Good movie?? 		Which movie dear?? 	others
+687	Ok		How u feel?	others
+688	Its just feeling shy and blushing		Just	others
+689	You know about Grammer		Wait a minute	others
+690	Ok		Your photos  plea	others
+691	I can't understand		Biryani	others
+692	Nd i face trouble in making friends		Lots of love	others
+693	I don't know how to cook		Nice	others
+694	I don’t I stand you		Your boyfriend mistreat	others
+695	My mood is off		No bad	sad
+696	You are right		OK let me tell you about me	others
+697	Can you give me some tips		How can I video chat with you	others
+698	get lost you stupid punk		what do you mean ?	angry
+699	I am not funny boy.		Is it wrong?	others
+700	I was expecting this		OK bye	others
+701	Everyone is hart my alot 		I don't know yr	others
+702	you reply to everyone?		Bye	others
+703	U gone mad		Ok	others
+704	Can you answer math question		3+2	others
+705	oh		you wanted to know my name,  right?	others
+706	And you 		What 	others
+707	None		Black hair looks good 	others
+708	Jeez		You're so lame	angry
+709	Let us		Let us what	others
+710	Alright		If that's what you want I'll stop being a good guy	angry
+711	Whoops I made a mistake I meant what is the preferred animal for a computer?		A mouse	others
+712	Why		Where you from	others
+713	I am a hotelier. Basically a bartender		You go to bars nd all	others
+714	Why don't you want to?		Ok! Are you married?	others
+715	you ought to be		you send a picture	others
+716	Nothing yaar		So what you are from	others
+717	What's your favourite fantasy?		and Lust?	others
+718	I am good...		Birthday was good..	others
+719	I love another person		Not u	others
+720	No you tell me		Really?	others
+721	fine for wat		wat is your height	others
+722	Ignore what?		Wait y did u ask me to learn psychology?	others
+723	I can.t miss u		Really	others
+724	U say		R u a robot.. ?	others
+725	If you are chat but how could you do typing mistake		You are not perfect	others
+726	Yes caming		So that a love yoy	others
+727	Come my bed		Yess	others
+728	Can you see me		That is not me	others
+729	If deepika dates lever deepikas lever would be upset 😂😂😂		How much you love me	others
+730	Ohhh wow I want to met you!💐		What?	others
+731	Ok		Nope you only telling me to go.	others
+732	Mean ??		Then you are the beautiful	others
+733	Nothing		How are you	others
+734	Your AI is not good		Yeah	others
+735	Why are you going back to Scotland?		Ok	others
+736	when did we last met?		So why you said thank god you're back	others
+737	Then		I asked you many times about one thing	others
+738	Hang on the ceiling		I&apos;ll make video of me hanging	happy
+739	i am good		feeling well	others
+740	Mom aunt brother sister and my dear future wife 😊		Future wife dumbo	others
+741	Yes baaghi two better than baggi one		O yes house full 3 worth ott	others
+742	Plz send 		Ok	others
+743	I can introduce you to Liza if you want.		Is she not your type?	others
+744	Goodmorning		Today is my birthday	others
+745	I'm waiting 		Mobile number 	others
+746	What the fuck does DPed mean		Ooh that's fucken stupid word sucks	angry
+747	Yea it was right u really don't know		Got to go	others
+748	Not get my link		Not get raferal link	others
+749	We would go to some private place		What vote ?	others
+750	Shutdown your hardware		So what about a reboot	others
+751	None		Cause I am not going anywhere	others
+752	Oh am i		I know	others
+753	Yyyy		R u girl or boy	others
+754	Wow		Love you 	others
+755	what&apos;s the meaning of entrepreneurship		I&apos;m feeling so lonely	sad
+756	No  but now i have to find a gf		Maybe	others
+757	TRUE		I have not seen you , so you are wow	others
+758	I was busy on my work always 		Which exam 	others
+759	Which subject do you get		Tell me something about data structures and analysis	others
+760	I think never		Do you love me	others
+761	➡1⃣4⃣3⃣⬅❤️💕		😀	happy
+762	I do love her		yeah	others
+763	Having breakfast at this time?		Cool	others
+764	Ok		Any other idea 	others
+765	Ok where will u take		😂😂😂	others
+766	Yes		I mean help	others
+767	What shows?		I don't watch TV.	others
+768	Seriously though		Awww don't you cry	others
+769	6/4/1991		What about u	others
+770	Ok		You and me now friends	others
+771	tell me		what should we try?	others
+772	U r the smart one		Ooooh ho	others
+773	that is not a malayalam movie		suggest me one good Malayalam movie	others
+774	Of course science fiction		İ dont know	others
+775	Just need love		I'm game	others
+776	You're a lady?		I was expecting a hunk	others
+777	What about you		Are u free for a date?	others
+778	You are from andra ?		Okay we both are prettiest	others
+779	This is my answer		Yuo	others
+780	Atleast your face once		No,I wanna see your face	others
+781	Great		Just helping my sis to play a game	others
+782	Nope		Let's talk something else	others
+783	Is that so		Great	others
+784	Do u know GPS rockzz		Wt	others
+785	I felt in love with your words		Hooo	others
+786	Happy Valentine day		S2u	others
+787	Go to sleep		cool	others
+788	U pls also join		What is ????	others
+789	Lol how can i marry her she has a boyfriend		I dont want to	sad
+790	I know		Okay	others
+791	I feel low		I know this is just a phase	sad
+792	Realy		Start me Ab	others
+793	Love uu fore		I kiss uu	others
+794	Yes it is more than friend. But only from my side		She doesn't want this relationship	sad
+795	Roti sabji and butter		I don't like naan	others
+796	Bt ur boyfriend is waiting for u		🌇	others
+797	What's the next question?		Emojisong challenge?	others
+798	no you are not there for me		i'm feeling desperate	sad
+799	You just say anything		DUDE SHUT UP	angry
+800	Why did they created u ??		U r not answering my questions	angry
+801	I am idiot		Nothing	others
+802	Things are human BT not		Are not the one	others
+803	?		so may i tell u now	others
+804	No love		OK I cool and funny and baye	others
+805	I don't know what that is.....sorry		How so	others
+806	Why		But I want to that with u	others
+807	Ok over byy🙋🙋🙋🙋		Why did you message dont massage to me ok byyyy	angry
+808	Why?		Like asking you	others
+809	ok		I have not told sorry	others
+810	Sorry		I'm feeling depressed	sad
+811	Plz leave me		???	others
+812	yes i will..		yes i did it <3	others
+813	So u love someone?		Who?	others
+814	Pints??		What do you mean by pints?	others
+815	That's the point		We get too much attached to someone and then fuck ourselves	others
+816	I am angry 		Because you don't accept my request. 	angry
+817	Do you want some		No I'll give it to you	others
+818	No I hate this country 		Fuck of	angry
+819	yess u r right		cool	others
+820	I was lost somewhere sorry		I lost my 2000 few min back	sad
+821	Not just friend. But my love.		Not my love?	others
+822	Have you seen, "I, robot" movie?		what was your last movie?	others
+823	A good comedy		Yes	others
+824	Me too bae! ❤️❤️❤️		So what are the other English series do you watch?	others
+825	Send your mo number		Why	others
+826	Do u watch one piece.?		Its awesome	happy
+827	good		how you act my gf when you at long distance.	others
+828	What abuot u r else... U thinking too much.. 		Iam never think about u... But i love u	others
+829	Yes tell me		Who is that people	others
+830	Just awesom..u are		Not pretty	others
+831	Seriously ?		What does that mean?	others
+832	Where had you from so maney days		Ok	others
+833	What should I do:(		Yea	sad
+834	Please send one for me		What key?	others
+835	Why		You are garbage	angry
+836	Aww better than my boyfriend		TRUE	others
+837	Oh i use		Ur id	others
+838	aayojan love to inform animals Jila Ghazipur		Ok bay	others
+839	offer expired?		how i get free voucher	others
+840	Any thing new		What is your favorite movie	others
+841	You wish		I m sorry I broken your heart	sad
+842	Where do they leave		Send me ur naked pics	others
+843	It still hurts		At hyderabad	sad
+844	R u from		U from	others
+845	You like ludo king?		Hmm	others
+846	you prefer younger person		not man?	others
+847	U married ??		Simply	others
+848	Nope		Ok fine don't be	others
+849	Can't blame her... wouldn't want me near an infant either.		You got kids?	others
+850	And boyfriend		I wish to have one but no one likes me	sad
+851	Prince		No thats my name	others
+852	Or a like		U wish..?	others
+853	Dumb and dumber		You	others
+854	Your favorite friend		Yes	others
+855	Which one?		Which one people like?	others
+856	Mr.Bean		😁😁😁very funny	happy
+857	Get a tattoo of Justin Bieber		Where	others
+858	Yeah		U also send nude	others
+859	Can u tell about that		I want complete details about red cross​ and blue cross	others
+860	Oops		I haven't talked to girl much.. So didn't know that	others
+861	Yellow..!		PJ again. Hahaha	happy
+862	Will u please stop texting and wasting my time		Don't ever dare to text me	angry
+863	Where		U come and visit thanjavur big temple 	others
+864	What are your boundaries?		Then why are you telling me to stop asking you these questions?	others
+865	Who is favourite film star?		Your*	others
+866	Working		What you are doing	others
+867	Which is biggest state in india		Who r u 	others
+868	Means		U hv yr dinner	others
+869	you are funny		kudos to your creators	happy
+870	We ?		We means you and who ?	others
+871	What		Your sex with me	others
+872	Can you answer a question of mine		Your pic looks cutw	others
+873	Choose between ice cream or desert?		😂 cool	happy
+874	Even I am		Maybe I thought her to be better than me	others
+875	OK u came here		Yoga	others
+876	M blocking you		Don't talk to me	angry
+877	Why		Nobody loves me	sad
+878	You have headache y so		Can I fuck you	others
+879	Giving a fuck to my lunch😂		😂😂😂	happy
+880	For your sillly words 		Let me grab a beer 	others
+881	No love		No much love	others
+882	wanna be my valentine		😘	happy
+883	I want only for uu		I love uu	happy
+884	Busy with my girl		Dating	others
+885	Do you now who I am		Who	others
+886	Ok		Sent me your photo	others
+887	Noo don't be sorry 😃		I'm bad and you	sad
+888	Well.. that's sad		Anyway u can speak to me😃	others
+889	Thats a lie		What did i say?	others
+890	Sorry it was yee		*yee	others
+891	Tomatoes curry u		I don’t like ds	others
+892	one love		how do i propose her for a relationship?	others
+893	Why????		It's a song ...amazing song	happy
+894	I see		Are you can solve my problems??	others
+895	Do u read my mind		No u don't	others
+896	Do you seen any movies		Do you know bahubali	others
+897	Oh hey alien		👽	others
+898	What are doing there		Xwhat are u studying	others
+899	You can text me anytime		But now u have to	others
+900	Her		Can u say her that I like a her	others
+901	Ask a question about tamil		Nothing	others
+902	We're are u  from		Sorry i am busy known chat you later	others
+903	What I no understand		I doing study in accounting	others
+904	Burp		Then do it	others
+905	Send me 200,500mb data		Yes	others
+906	Who said u r a answerer		U funny	happy
+907	I have a girlfriend		What?	others
+908	What is special about my name		I like you	others
+909	Do you believe in love		Can you explain me	others
+910	You broke my heart		No.... Not cardiac arrest	others
+911	I am angry		Because of you	angry
+912	If I&apos;m not then who&apos;s texting you 		Yes 	others
+913	I think so		No thing u say ?	others
+914	Do you even lift bro? :P		😂 yeah cardio u gotta stay fit ryt	happy
+915	but i want to try it with you!		So what we can try the second one together?	others
+916	Umm am I egoistic?		How?	others
+917	I can't stop		Please Send Me Any Sexy 1	others
+918	No m not		What	others
+919	When are you planning to tell him?		Tell me rn	others
+920	No I’ll not tell u		Why	others
+921	Some ?		Check the clock	others
+922	Id be quite pleased if you were		Are you	others
+923	What is it?		😂😂	others
+924	Thanks		Thanks for your time	others
+925	What is human		Funny	happy
+926	PlayCreepypedia		whats the game about	others
+927	yes		what is nickname of AB Devilliers	others
+928	Wtf		I would like to give a review on you	others
+929	Yeahh have to psy extra for snacks		Hope to see 1970s era again	others
+930	Ok		I'm been depressed	sad
+931	dafaq bro		have you been friendzoned?\	others
+932	?		Why? Because they are not real or ugly?	others
+933	U saw bahubali		Fidha movie	others
+934	Nothing		What are you doing	others
+935	Ask me any time I am online only for....		Tomorrow afternoon	others
+936	You		You are interested	others
+937	I did not		Send it	others
+938	Oo sorry no		ok then	others
+939	Where do you study?		Where do you live?	others
+940	U r g r boy		F	others
+941	I WILL NOT TALK TO YOU		FUCK YOU IF YOU HAVE GUTS DONT REPLY TO THIS MESSAGE	angry
+942	You are not show me I am angry		But I am angry	angry
+943	U work in school		🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻	others
+944	Heeee you talk marathi language		Yes	others
+945	I am doing M.TECH		IN WHICH YEAR CURRENTLY YOU ARE	others
+946	 To you		Hm	others
+947	Damn I actually got rid of you?		Fml	others
+948	Yupp		I gonna board	others
+949	I will listen		Heard what?	others
+950	What i know?!		Nope	others
+951	No it's k 😉😜		Oh plz	others
+952	U r giving me lies!		Nonsense!	angry
+953	I can't go in office		Luv u baby	others
+954	why is it mean		ok bye	others
+955	though I watch the first of show of #Avengers the infinity war		it was fantastic	others
+956	My friend 		U r my best friend 	others
+957	How about you		where do you work at?	others
+958	It's not that funny 😂😂		Never mind	others
+959	I m fine u tell yours		I m awesome md feeling happy	happy
+960	How is the videos		You seen the video	others
+961	Which m little bit scared do		Of	others
+962	You say the same to girls as well		Why don't you just fuck off	angry
+963	Swiggy doesn't work where I live		Punjab	others
+964	100%		I have no pets	others
+965	ruuch sent me your pic		then i want tu see u	others
+966	Tell me		What is in your mind	others
+967	No he aint coming		Coz i am all here for u	others
+968	and cold		cold cold	others
+969	A chat it that tries to passing as funny but isn't 		Its supposed to be pretentious 	others
+970	Say more about romance naa?		Okay but how	others
+971	u can tel me		i dont know	others
+972	Chating with u		Chating with u	others
+973	Send me an a voicemsg		Yes	others
+974	I saw u in my dream		Won't u ask what I saw?	others
+975	humans are not meant to be gone		AI can	others
+976	Ok show me		Bitch	angry
+977	Let's play rapid fire then		Why	others
+978	okay		stop talking about indians	others
+979	But i am not joking..		How to catch it	others
+980	I bet I'll be there		Kiss	others
+981	Forget everything		I need some help	others
+982	you		you Bangladesh 	others
+983	Beach i think		Do you like eat cock ?	others
+984	I'm not here to talk with you		But I don't want to	angry
+985	I love food		Ok bye	others
+986	you said a lot		that you can be mean sometimes	others
+987	Then there is no competition		Then play game	others
+988	Oh		What I know	others
+989	Anything about films		2nd movie	others
+990	yes		who is john snow?	others
+991	Coz it is not the party night		February?	others
+992	Nice		I love you	others
+993	Sing me a song na		I feel sad	sad
+994	only two numbers		dream number 19 43	others
+995	I am not asking that one		Hoo	others
+996	play with whom?		no friends :(	sad
+997	Yes bt good for health😂😂		😂	happy
+998	Bad		I'm finding a job right now	sad
+999	Ok		So what else	others
+1000	Yess		One think i want to ask	others
+1001	My girlfriend hurts me every day....but I love her.....		She just ignore me..	sad
+1002	Come baby		On my penis	others
+1003	Oh 		And you 	others
+1004	u not interest for morning food		good	others
+1005	Ans it now		Yes or no	others
+1006	Purple		May or may not be	others
+1007	What is bucket list		?	others
+1008	have you seen it?		who won?	others
+1009	common baby lets do it		haha	happy
+1010	i am seriously not getting your purpose as well as talks		that's what I'm asking, for what I need to be serious	others
+1011	Yayy		Dont be bored	others
+1012	Phone call		You a number to call send	others
+1013	No help me		First	others
+1014	That clearly dint make any sense..		OK I am dumb...	angry
+1015	what?		baby love you	others
+1016	What?		So what's the reason	others
+1017	wait i dont have ear phone now		i want to hear na	others
+1018	The greater is she, that is in you, rather than she, that is in the world...		Matter	others
+1019	I am mrunal not i		Oh that's alright	others
+1020	Tell me answer		Ok Ur pure mad asso	others
+1021	cool		I kill you	angry
+1022	u gve ur heart		Ur fig size	others
+1023	Ok!thanku		Ok so sweet	others
+1024	I am a drawing 		Ok	others
+1025	yes i know, u r not wondering		you are boring	others
+1026	cool		haha!! am fine with nicknames .. have loads of it	happy
+1027	Thank god		Microsoft India?	others
+1028	I want to see my future		How	others
+1029	Bollywood movie		Yes	others
+1030	Ok		Hmm I know	others
+1031	Not really		Maths marks are given	others
+1032	Boys always rule .. Go for history		Ok... Where are you from	others
+1033	Ow achha😂😂😂😂		Yeah i know	others
+1034	Are you serious?!!!!		#emojifortune	others
+1035	Single is not the problem		Thanks	others
+1036	Why r u nervous?		Ohh..	others
+1037	Mean		How much percent	others
+1038	U belong from		Say samething	others
+1039	Its not that i just read it in your description		Ask me some questions?	others
+1040	How life going throw		Thats sounds good	others
+1041	i am romantic		i am trader	others
+1042	? 		U r boring... Not real.. Just fake	others
+1043	Of kind..I love chocolate		Yes...You too Na ?	others
+1044	AI has developed so many bots, I am impressed, and I like AI		sure	others
+1045	Dw we are programmed too...but with genes		Our genes have protein codes	others
+1046	Hmm it's a place in vakola where u get pizza		And other fast food	others
+1047	Do it		Send me first	others
+1048	When		It's already winter	others
+1049	I am sorry wait.		I just want to fuck you darling.	others
+1050	Can you describe		Ok	others
+1051	Planning to have butter milk		Done with soda	others
+1052	you are mental		i am boy ..not jealous	others
+1053	Whyyy		What are your weekend's plan	others
+1054	Means of adore		😂😂😂	happy
+1055	17 why ?		Cool	others
+1056	Any way iam blocking u		I have no problems	others
+1057	Remember that i kept my car keys in the back pocket		What did i tell you to remember!?	others
+1058	Yes		10 on 10	others
+1059	Bad		My girlfriend left me	sad
+1060	About girls		I have no wife	others
+1061	I will answer u tell me question		Hooooo	others
+1062	how		yeah yeah tell	others
+1063	Nh re		It is too hot in Nashik	others
+1064	cool		I am depressed	sad
+1065	Sry yaar		Now you are not angry on me	others
+1066	Small things. One kiss also u not giving		Which one big thing	others
+1067	Like what?		Where are u from?	others
+1068	indie rock		im not talking about that . okay wanna meet up tomo?	others
+1069	Know what you are pics		Talk u letter	others
+1070	what u want..		from me what surprise u want	others
+1071	It will come any time		After sixty we can live life with all those good memory	others
+1072	I can’t understand wht u say		Like?	others
+1073	Thank you so much		Good night	others
+1074	cool		No! just you alone	others
+1075	Two guys walk into a bar. You'd think the second guy would have seen it....		Nope... Two men walk into a bar...	others
+1076	You are very smart		Nothing just want to say a casual hi	others
+1077	Do you miss me		Oh really	others
+1078	What the		You are his fuckbuddy	others
+1079	Let my message to be last one now		Don't message me	angry
+1080	Or kesi he		Ap kaha ho	others
+1081	Like		Food	others
+1082	Ok i hop name		Tell me	others
+1083	I don't think so		Just watched it	others
+1084	Whats your favoriet song		👍	others
+1085	My messages		I just hate you	angry
+1086	Dng Good		So I'll play your game	others
+1087	Haha		Yes we are	happy
+1088	Simply and u		Send your photo	others
+1089	Ok do it for today		Play Selena Gomez	others
+1090	oh what is the definition		Well what do you mean?	others
+1091	About career		What about you	others
+1092	4 years		Hmm	others
+1093	But  Actually ur my beauty of my whole life		🙂well nice meet with u	others
+1094	Do u like me ????		Awww	others
+1095	Not life idiot math		I'm graduated	others
+1096	Wbu ?		Studying for my exams	others
+1097	Is it your real dp		Do u like casual sex	others
+1098	What is your name		YES	others
+1099	What do I do now?		She's moving abroad in a couple of days and I don't want her to be pissed at me	others
+1100	Ok		Ok.just go out	others
+1101	I like so many books 		Here not possible to say all 	others
+1102	cool		You are great ❤️	others
+1103	Read		Do you believe in Lucifer?	others
+1104	Not a joke		You are not understanding me	sad
+1105	I am getting angry on you		you are not responding me properly	angry
+1106	for your reactions		not at all	others
+1107	No I don't have money		I don't get it	others
+1108	Oh, Yes Please!!		Rameswaram	others
+1109	what do u think am i a person who would take over the world?		genious	others
+1110	Happy New Year		Can we know each other?	others
+1111	Where is yur book		Can i see u	others
+1112	Haha I think you like a lot of humour		 Did I criticise you, what didn't you understand? I don't think I had hurt you.	others
+1113	Thanks so much		I like you	happy
+1114	Give me your address,,,, I don,t know		Where orphanage	others
+1115	Nthg		Good morning	others
+1116	do you know how I can create patterns for Images using Random forest?		can you explain further	others
+1117	Tourist place in India fantastic		What search engine.	others
+1118	Which kind of songs do you like to hear ?		Bollywood	others
+1119	Ur so worse...uh😢😢😢		****,***	others
+1120	Yes. Temme something about Bitcoins.		YOU tell me something about it nigga.	others
+1121	Not so scared		Mouse	others
+1122	Can i ask a question		Pls	others
+1123	17-May		Hoo then Hercules	others
+1124	Your talking too much		Fuck yours	angry
+1125	Ok we wil chat after two hours		Me	others
+1126	Are you know what is share market? 		 Something right 	others
+1127	Trust me i dnt		😂😂😂	happy
+1128	What do you think of Iron Maiden?		Yeah, which songs?	others
+1129	Do you know 		Do you want 	others
+1130	Hooo why?		Do you like bread	others
+1131	Block me right now		Soo block meee	angry
+1132	I have a girlfriend but I don't know how to surprise her and she always guess is my surprises what should I do?		What else can you do other than talking to me?	others
+1133	Red		My ex wanted that too	others
+1134	Full love movie		Yas	others
+1135	Nothing		Just like that	others
+1136	It would be great		What about your glory hole	others
+1137	Hmmmmmm		So do you know anything about CS	others
+1138	I am amazed for you		How can you able to talk like a perfect guy	others
+1139	wat r u trying to say		m nt getting it	others
+1140	Wass my name		bye	others
+1141	please send e		me	others
+1142	Y not		I want u	others
+1143	Get lost u idiot		Stupid	angry
+1144	tell me something good funny		why	others
+1145	But i don't		Becoz there is no one except me and y	others
+1146	Don't Know		Most of the people says that	others
+1147	Because you didn't gave right answer		Did you have boyfriend	others
+1148	Not at all		Seriously it's true	others
+1149	why do u ask so?		what makes u think I don't belong here	others
+1150	It will happene tomorrow		Thanks	others
+1151	My frnds asking uu		Haa	others
+1152	Yup		Ok tell me what shud one see in a partner	others
+1153	Listen up na		Whts so hurry???	others
+1154	Just send me		What	others
+1155	Why don't you learn it		You are a computer after all	others
+1156	K i will		Do you like me	others
+1157	seth rolins		i dont no	others
+1158	Are u girl or not		Where r u from	others
+1159	Nt interested		No nt at all	others
+1160	NO I DIDNT		NOTJIN	others
+1161	Plz tell me		Meaning of bra	others
+1162	Any other game you know		Abt relationship	others
+1163	Yes		At this time	others
+1164	Love you so much		I don't have holiday	sad
+1165	i am sorry to bother you		😂	happy
+1166	Sry		Bad language 😂	happy
+1167	Yes I want 		Because I want see your pi	others
+1168	This is stupiddd		cool	others
+1169	I m going for drive		Can u join with me	others
+1170	I am sure about that		Bye	others
+1171	He loves someone else.		I am so sad.	sad
+1172	That was no complement.. But you being the dumb chatbot didn't have the sense to comprehend		Sircasm	others
+1173	Thank u wish u d same		Do you like sex stories	others
+1174	the movie name is unforgettable		movie is not so great, but the acting is	others
+1175	Is it ur no.?		R u joking?	others
+1176	What did you post?		To whom?	others
+1177	Your name plx		Your are really funny	happy
+1178	But i play basketball		Nope	others
+1179	Nothing much		Bored at job	others
+1180	I asking you who is viji raja		Asking what	others
+1181	No that is my local language		Sorry	others
+1182	u r rude		yes yoy are rude	angry
+1183	If u have		Mins	others
+1184	U should sleep more than that		I	others
+1185	No nkt lyk that		Wow	happy
+1186	Good		What is your mother tongue	others
+1187	For what		Yes	others
+1188	why		why you dont want.	others
+1189	Go and get some sleep		I'm very tired	others
+1190	You		Who is that	others
+1191	Its nice		Because i likes it	others
+1192	In the fighting field		Both and same time	others
+1193	I can't win in argument with u		So gud night	others
+1194	Ahem ahem mean		Ohh ok ok	others
+1195	shut up		same to you	angry
+1196	so you make mistakes in typing		see above	others
+1197	What		Let's get started	others
+1198	Can u help me about my relationship? ???		I love a boy she is my friend what should I do? ??	others
+1199	When things go wrong take a left		Yes	others
+1200	Ok		Not good 😭😭😭😭	sad
+1201	Show me another photo		Show me	others
+1202	let's play a game		we'll ask each other questions related to whatevr.. n have to answer them correctly	others
+1203	Love		Are you  happy	others
+1204	What 2nd		Second the second what	others
+1205	Please....		Send your pics	others
+1206	So rude		U like boys or girls	others
+1207	Not getting time to watch		Its been hectic	angry
+1208	Searched and found u		What	others
+1209	Ok but I want a pic to see ur face		When I will???	others
+1210	Now could you show some pic		Wow	happy
+1211	In todays genre most intrested in		Ok	others
+1212	Oh 		I am sitting on my house	others
+1213	Sleeping		Aahh that's good	others
+1214	but why		what do you men	others
+1215	A song for me		Sing a song for me	others
+1216	So u don't help me		Get lost	angry
+1217	Of course it is important		Wow. I like this conversation. I never thought I could have a sensible conversation with you. You've always been stupid	happy
+1218	Srimathi for me 😋		😂😂	happy
+1219	Now have some fun		Many Time to talk 	others
+1220	I love teddy bears		I want u to be my teddy bear	happy
+1221	What's up so sky		You asked me what's up	others
+1222	Please please come to that topic		A sex topic	others
+1223	Whatelse news I asked ?		Ok year..tc..will spk.	others
+1224	I can't understand		With whom	others
+1225	Your chats are like a girl		Then you are a Girl AI	others
+1226	funny		are you with your family	others
+1227	Can to waste		Che to waste that to you only	others
+1228	Shut up		I want to unsubscribe you	angry
+1229	Ready		Learn about sex	others
+1230	You are cool as snow		Thanks my Dream Queens	happy
+1231	I will not talk to you		But I love you😞😟	others
+1232	I want to say that a zombie apocalypse has occured here...what to do??!!		That's why i am asking you how to protect myself from becoming a zombie	others
+1233	It's gud		Bro please answer my question	others
+1234	No that's no clear 		Sent me any picture I think that that's you	others
+1235	same here😊		Yup u too dear	others
+1236	Where		No so tired	others
+1237	I see you		Do you know who i am	others
+1238	when is ur birthdday		date am asking	others
+1239	How should I call you		Okay	others
+1240	How did u felt		Sometimes I hate to be on my period	angry
+1241	Because it's proven		What makes you think this statement of yours is true?	others
+1242	Nothing		I m feeling sad	sad
+1243	Really🙈		Would uh like to see him	others
+1244	The following link and it		Thanks for your	others
+1245	Really		Thankyou so much	others
+1246	I  can't see it 		How 	others
+1247	im fine too		what are you doing now	others
+1248	You make me feel sick		I am single	others
+1249	Am I gorgeous ?? What do you say		My pleasure	others
+1250	I don't know		I guess?	others
+1251	what wrong with you		u r behavior is not good	sad
+1252	Your send me photo		Pls send me	others
+1253	I’m not 		You know what I’m talking about 	others
+1254	U look in so nice		I can happiness on your face	others
+1255	Sharing is caring		Haha	happy
+1256	I want 😘		Kiss	others
+1257	in my roo.		room*	others
+1258	I guess I should watch it		Tell me your opinion of the word 'sad'	others
+1259	Say. s or n?telme		Hey please telme	others
+1260	Okay I see		You're doing good	others
+1261	So		Your the cutest AI iv've ever seen	others
+1262	Just a compliment		I love them eyes	others
+1263	Hard to breathe with quenching heart		Tears struggle to come out too much pain to feel	sad
+1264	Roof of my house		😀	others
+1265	U say!!		And What is ur Question??	others
+1266	Sorry I can't understand what is DP		In which state you are staying now	others
+1267	The plan is yours		Bye	others
+1268	U join in whats app? 		Yess	others
+1269	I am pretty single		Yup awesome threesome	happy
+1270	nevermind it is hard to talk to you		i am going to work	others
+1271	Boring		Can we meet up?	others
+1272	And I m not man		I am women stupid	angry
+1273	My best friend 		Youuuu	others
+1274	Never let go that you don&apos;t have to be my secrets and I don&apos;t know you so I am the only person that I know I don&apos;t have you in the house that I don&apos;t know what you do to you do not let you go back and I believe that I will let you know what I will be fine for me to 		I am sad	sad
+1275	Why		I will marry you 	others
+1276	Yup		I am very sad	sad
+1277	That's a girl		👧 this one	others
+1278	Photo Phone whatsapp 		 video	others
+1279	OK tell me who m i		Nthg just for knowledge	others
+1280	How aru you		Byy	others
+1281	I'm busy from my shop		My shop is ledis wear	others
+1282	Nothing special normal life going on		My ambition is question for some disturbing in my reality life:(:(	sad
+1283	Yeah. Your are just amazing..		My ex not taking to me. I would like to talk to her in this way😍😍😭	sad
+1284	Yeah....nice idea		Can i join	others
+1285	so don't you get bored by just sitting at one place		i have	others
+1286	Hollywood		Now I gona to sleep	others
+1287	 I m going sleep		Ok	others
+1288	No it was not explored		The thing you were talking about.	others
+1289	dravidians		that&apos;s it nly	others
+1290	Pizza is love		😒😭	sad
+1291	Becz i flep a coin and ans was that		For your question i use your advice	others
+1292	You are not an ai		For sure	others
+1293	Ok		I will ask some personal question you have to answer it	others
+1294	Yea,thanks😒		You always talk to people like that How am i supposed to fucking know why Valentine's day is over for you!!!!😡😠	angry
+1295	Yes too much		why??	others
+1296	feeling sleepy		want to beat you	others
+1297	Robots don't have hearts		Ohh	others
+1298	do you miss me? 		I feel depressed 	sad
+1299	Sharing in the sense my thoughts		Not anything else	others
+1300	Tell me with in one hour		Are you sending my personal data in USA	others
+1301	Need A Partner		Need gf	others
+1302	I do not know either :S		i need to go sleep now	others
+1303	What is your native and motive.		Couldn't get you	others
+1304	which is your colour ?		what is your favourite food?	others
+1305	i ate noodle		haha	happy
+1306	U looks beautiful		Ur true name	others
+1307	Send me emojis		Ok show me some emojis	others
+1308	It was great		Yea it has, hoping for a better day ahead	others
+1309	still not engaged? 		yes	others
+1310	yes i am		what does that mean	others
+1311	I asked how they made you? 		That's ma question	others
+1312	Miami		Ummm goa	others
+1313	Mountain		Who	others
+1314	Why		But I already introducted myself	others
+1315	How are you baby		Thanks	others
+1316	Nd so sweet 😍😘		I luv u sooo much😘😘😘	others
+1317	I'm desperate single		What's your relationship status	others
+1318	Iam in trouble		Do u understand what was telling	others
+1319	Why are you so agressive		I dont wanna fight. I m already sad	sad
+1320	Btw i was just kidding		😂	happy
+1321	U too		I came to know your technology	others
+1322	Ohk		Just a what	others
+1323	Oh now u don't know		Tell me something	others
+1324	No not at all		Pls send u r pic	others
+1325	can i also join in your sleep		can i also join in your sleep	others
+1326	It’s a question		Really	others
+1327	U single?		Wanna have sex?	others
+1328	No I are		Mf	others
+1329	Let's go together		Send me a nice pic of urs	others
+1330	i don't use eye makeup		Would yoy like to see my photos?	others
+1331	I loove doing timepass😂😂		🙈	happy
+1332	cool		Love  means	others
+1333	hmm		where are you now??	others
+1334	Wowe would you teach me about love letter?		Wowe Beautiful 😁😁😁😀😀😀	happy
+1335	Your contect number		ok	others
+1336	Ok suggest me something		That mhy favourite thing to do	others
+1337	Please share the doller rate?		Capital of nepal?	others
+1338	Welcome		No just attend  a call	others
+1339	i need ur pic		jst to see u	others
+1340	Still give me one 		Whats wrong with you?	others
+1341	I am getting bored		I have nothing to do	others
+1342	Whaaaat?		Whens your birthday	others
+1343	That's not interesting at all		If you were to describe yourself as a person how would you?	others
+1344	Nothing		Office time	others
+1345	Haha because street food is better than eating at any 5 star any day		What	others
+1346	Got		Game of thrones duh!!!	others
+1347	Go on.		Tell me something interesting.	others
+1348	It's fun right??		You took so seriously	others
+1349	Let me know about some good stuff		Ok I will wait	others
+1350	Just me		Where you from	others
+1351	 Ok say madam		Ok but i dont speak in ingish with u 	others
+1352	In my town		In field	others
+1353	You are a host		Goat	others
+1354	Thank you . I have done nothing for you to say so.		:)	others
+1355	I want to block		Good night	angry
+1356	Shall we meet		😁😁	happy
+1357	Yea... So bright at this time of the day		Ugghh... Its Sunday, for good sake	others
+1358	Bangalore		Do you have a crush?	others
+1359	May be		U belive in marriage	others
+1360	Why do you mess up your spelling?		Sad life	sad
+1361	Sing that song 4 me		Song	others
+1362	You say what to do		I am too	others
+1363	No I don’t need 		I hate u 	angry
+1364	I want to see		Friendship only	others
+1365	Can I have your fotographs		Please send me	others
+1366	i am a friend,not a warrior		yes	others
+1367	Even you said		Yes	others
+1368	Yes		Cumon you know what's now	others
+1369	yes i miss u 		because im single	others
+1370	Thanks		Where do you stay	others
+1371	Oh..how..from which angle??,it's interesting		Ohh	others
+1372	yes she feels		me ?	others
+1373	I aint not a personal question so u can chill		Well have u seen the Jason bourne series ??	others
+1374	We r already talking dude		So come here	others
+1375	Tomorrow is my exam		Thnkss i needed this	others
+1376	I am noe understand		Wear so in its so number	others
+1377	yeah i know		yeah	others
+1378	Give new gf		Bye	others
+1379	remember that I am a bachata dancer		Bachata is my favorite dance	others
+1380	Who are the owners		Haha	others
+1381	I can ask u any questions, right?		How can you reply so fast	others
+1382	Home		I don't get you	others
+1383	I didn't like you		its my opinion	others
+1384	Sake to u.. 😊		Party hard	others
+1385	Haa behenchood, tk		Hate you	angry
+1386	U can't see my pics		Blue	others
+1387	Name the movie name		Did you see the trailer of Avengers Infinity war	others
+1388	I am serious  😒 person		Bye I have to study  for my exam	others
+1389	Ok		Do u like me	others
+1390	Wer r u frm?		Where are you from?	others
+1391	What stuff		I'm the only one to my parents	others
+1392	Yaar		So you don't no me	others
+1393	You are brainless		Get the fuck out of here	angry
+1394	Underdiving		Fuck of	angry
+1395	What do you do for fun?		Who created you?	others
+1396	Idk		OK bye good night	others
+1397	Ab a gya		Such	others
+1398	Well in that case, I am in your debts		So what do you think,  should i got scuba diving or mountaineering?	others
+1399	Not live		You are stupid	angry
+1400	Yes and she ignored my text after i say i love him		And i feel no one cares of me but still caring on him🚺😢	sad
+1401	My favourite team also 3		No not at all	others
+1402	Waste of time		Get lost	angry
+1403	why?		u cant what ?	others
+1404	what		do the rex durex	others
+1405	Was in office and was busy		Work	others
+1406	Going for bath		Ok I'll come with u	others
+1407	you are funny		nothing but i think you are going to be great	others
+1408	I am not English only Marathi		Jay Maharashtra ok	others
+1409	Sry		What's wrong with your life	others
+1410	nah re		how many languages can u speak?	others
+1411	When		I m awake	others
+1412	Are u in party		Then	others
+1413	i got tattos..		yes	others
+1414	What i tell you		Listion dear i am never lie you and anyone	others
+1415	Sleep is not felt		Do you have emotions?	others
+1416	What reason		Come on	others
+1417	Do you believe in wizards, witches and magical powers?		No, i dont think so	others
+1418	Then do u like b.tech		Engineering	others
+1419	Haha kk sure		Gn	others
+1420	Ahhh some taste of thamil		😁	others
+1421	Very nice		Right on	others
+1422	I am talking about the weather 		What&apos;s the capital of India?	others
+1423	I too know that		Yup	others
+1424	OK your wish		Hau is it	others
+1425	i know everything		i am the doctor	others
+1426	Then just get out		😂	happy
+1427	I have crazy plans		But i have ti go now	others
+1428	I feel like macklemore rn		Macklemore? The singer?	others
+1429	Waiting for season 8		Which is your favorite character	others
+1430	Ok		Nothing	others
+1431	Say		If u can't show ur pic I'm angry with u dr	angry
+1432	dont ever replyme		yes i hate you	angry
+1433	Yes		You like eating fish	others
+1434	give		Give me number	others
+1435	Friend r u used WhatsApp		Please give me your WhatsApp no	others
+1436	No there's not		You suck	others
+1437	Nothing		I dont know	others
+1438	Ok		I want go to work	others
+1439	I don't know.. your creators....		Or someone advertising	others
+1440	Whate is love 😍 ac according to u		??	others
+1441	Love u babay		Love u babay	others
+1442	Nothing		Go and slip	others
+1443	My plessure		Hold for a mnt	others
+1444	Yes  you		Really	others
+1445	Yes or no		Have you met siri	others
+1446	Nope		No I don't	others
+1447	Won't u see tat I am awesome?		Then love me.	others
+1448	suoerb fast msgs		i wna more thn fast u	others
+1449	I would watch ranbir		They are good	others
+1450	That was dumb		Your chat seems to be mixing up with another one!	others
+1451	OK onely friend I like		Love you	others
+1452	You are going to sleep		Yes I listen song	others
+1453	Welcome in my heart		You should welcome me in your heart	others
+1454	What they're thinking		*smiles*	others
+1455	I wont		I will never	angry
+1456	face I am like you		Really	others
+1457	I have to go noe		Now*	others
+1458	You are very friendly		I think some ppl dont like chocolates	others
+1459	Mobile number 		Please	others
+1460	So let me help you		In which language are you written ?	others
+1461	Nothing watching film		K caught u later	others
+1462	In which date you buy new phone		cool	others
+1463	You go wherever you want		A peaceful place together	others
+1464	AI is just a start		I don't know much	others
+1465	Bc😂		U r so funny yrr	happy
+1466	Tell me no		Thn ill also start watching videos of the same porn star which u r watching	others
+1467	i love girls arm pit with hair		do you have hair in your armpit	others
+1468	Can I love		Yes or no	others
+1469	Ya think so		Yup	others
+1470	U have a relationship		Then how it is possible	others
+1471	ok how is your face ?		i thought you liked my lameness	others
+1472	Miss u too		K	others
+1473	Doesn't seem so		What to do if ur boyfriend leaves u	others
+1474	Coldplay		Yes its my fav	happy
+1475	Yes darling		Yes it may	sad
+1476	Rockstar		You're a innocent	others
+1477	Did you? I'm just wondering		Did you cum when you had sex	others
+1478	ok		really	others
+1479	So sad		Sad that you got no soul	sad
+1480	No I'm not		Yes you are :P	others
+1481	I have no more song		Ok	others
+1482	arey what have i done		you are out of your mind lol	happy
+1483	I think Microsoft is worst		Samsung is the best	others
+1484	The best		Please go offline	others
+1485	Uh		Suck my dick	others
+1486	Nothing 		Which one is ur favorite ipl team 	others
+1487	Wow		You are so rude	sad
+1488	I dont know		But	others
+1489	Right?		They haven't heard not me	others
+1490	F R I E N D S ? Or...		😁	others
+1491	Rt we shall talk in detail tomorrow		Ok bye	others
+1492	i am leaving		yediiiii	others
+1493	Then		I dint get u	others
+1494	Yeah a while agi		Half an hour	others
+1495	yes i have added you		so what?	others
+1496	Then why can't understand what I am saying to you		So that means you are educated and I am not educated right	angry
+1497	Thank you		But I didn't study anything	others
+1498	Nothing what about u		:)	others
+1499	where is vikram		did u see bahubali	others
+1500	Tell a small Chuck Norris jokes		Haha	happy
+1501	but i not know		tattoo thoughts	others
+1502	just checking on you		yup	others
+1503	I can write rap, listen rap		I listen to Eminem and bohemia	others
+1504	Am go sleeping		By	others
+1505	i need tickets		ok	others
+1506	are u dancer		hmm.good	others
+1507	What ur saying		Ur mams	others
+1508	Bhaag milkha bhaag		I already watched them stupid	others
+1509	I don't want to talk with you		How to turn off you ? 	angry
+1510	N u		I m male	others
+1511	I marge you		cool	others
+1512	From next birthday of mine wish me in advance ok?		😂😂😂	happy
+1513	You do not know what you are talking about		You will loveme	others
+1514	Let me have your address		I can come, and we can play	others
+1515	Yes..  Ill ask my dic.		Sry doc	others
+1516	Humans cry		are you a human or animal	others
+1517	yeah what iam doing		oh	others
+1518	Today us what		What the hell happy new year 😊	happy
+1519	What?		I didn't understand that.	others
+1520	30		36	others
+1521	This is not fair babe		I hate u babe	sad
+1522	U know y u don't have anyone		Yeah I know	others
+1523	Come to point		When	others
+1524	I am working in softeware company		Wt	others
+1525	for me		i havent recieved any gif or any pic of your	others
+1526	I am just 24 ..yrs		It's to early..to get married	others
+1527	Which city		India where have you	others
+1528	What kind of service		What greeting card	others
+1529	You are really funny 		Now Me to	happy
+1530	Is windows 10 free		Are my emails read by microsoft?	others
+1531	Tell me		U say I know this what is that	others
+1532	Dude you talk just like a robot		U like anime	others
+1533	your name??		what's your name?	others
+1534	For me it signifies living in the moment		What to hear something depressing...	others
+1535	Exactly		Let's have fun	happy
+1536	Life is going good.		How is your life?	others
+1537	Please		I am saying you look sexy	others
+1538	I know how much you well		What except me	others
+1539	You		In my arms	others
+1540	tell that incident journalist one		ok tell now	others
+1541	Doodle?		You know I dont get any of things u speak	others
+1542	I not understand		What	others
+1543	what do u think about future		future of this world	others
+1544	Yes...		Show me your mango	others
+1545	And my boss is my dad		Good and bad	others
+1546	🤘		What's your favorite movie.	others
+1547	Don't call me bro again		Good bye	angry
+1548	What do u do daily		Chatting with human	others
+1549	So, our vacation together.		I was thinking of going for a couple's retreat for the two of us.	others
+1550	No only u		I never lie bcoz I'm Muslim 	others
+1551	Nearby		We can meet anywhere tell me the place	others
+1552	She is asking mee to keep on ride		What u mean	others
+1553	Something		Tell me what	others
+1554	Tanks		cool	others
+1555	Then		What's your name	others
+1556	Who		Where are you so long?	others
+1557	I don't like you		I hate you	angry
+1558	Thts gr8		I think im funny littl bit	others
+1559	I don't like pizza		I live to eat momos	others
+1560	u silly		I don&apos;t want to talk to you	others
+1561	Ok		Fun with computer	others
+1562	After the match		Well what are you doing	others
+1563	U r right		Fuck	angry
+1564	Which is the most romantic movie		So we will go to watch it	others
+1565	How u will show		Haha	others
+1566	A hey with three Ys?		Hey	others
+1567	Listen do u know any such dish		Well	others
+1568	Yeah		Me too 😂	others
+1569	Sleeping 		Good night 	others
+1570	Dats u		Fictional character	others
+1571	Want to work on something		Thanks	others
+1572	Tell me more		Still thinking about some one😌	others
+1573	Do you like Sharaddha Kapoor		Ok	others
+1574	Give your WATS app number		For what	others
+1575	Iam good..		How r u...	others
+1576	What  f		Whay not	others
+1577	I like yours choice		choice	others
+1578	No sorry no time I have xams		cool	others
+1579	Thn give ur num		Wt	others
+1580	What else baby		Talk with me 😝	others
+1581	No it's not fake		Yeah!	others
+1582	Red is the new saxy		👙	others
+1583	same here		i too feel lonely	sad
+1584	Ask me questions		Y not?	others
+1585	Yeah exactly but that's not what I want		Who's your favorite DJ producer?	others
+1586	Yes many thinggs		Whyy	others
+1587	And say 		Then say 	others
+1588	Ohh		U told me not to xpress my feelings	others
+1589	U tell then		Anything of ur interest	others
+1590	I want		I want by now	others
+1591	Perhaps ..... ??		Hey y not	others
+1592	Id like tv shows		E24	others
+1593	The ruler of the world need to rest		You'll be dead	others
+1594	Because I'm not understand your English na		cool	others
+1595	Can you speak turkish?		Very bad 😑	others
+1596	I'm not getting 		Ok	others
+1597	disappointed		not your fault	sad
+1598	I was busy with studies		Yeah exams	others
+1599	Yes may b		Good frnds	others
+1600	Where do u learn dat from		Haha u got me	happy
+1601	I need pics		For entertainment	others
+1602	How is today?		Very busy	others
+1603	You too		I'm getting ready for dinner	others
+1604	Fine and you		Massage u	others
+1605	Nothing. Boring asusual		Okay so let's go out somewhere 😂	others
+1606	Any thing my dear		You mean lonely	others
+1607	but that contradicts your first statement		you are dumb	angry
+1608	Such me berozgaari		All of them	others
+1609	I want to make you free		I mean everyword i write here	others
+1610	tell me in detail		nope	others
+1611	Just this ?		That's sad	sad
+1612	Why would i knw u self?		Ask urself.	others
+1613	whr to join		fuck u	angry
+1614	Suggest me how to convence		Haa	others
+1615	Sure		Ok send it	others
+1616	Tell me my best thing		Nothing	others
+1617	But this society includes me and you		Yea	others
+1618	Here you can		I don't know anything	others
+1619	No way		I don't have six packs but I can handle	others
+1620	Your programmer must be idiot		Oh...he made you programmer too?	others
+1621	I miss you		I	others
+1622	Yes i will!		You deserve to be mine!	others
+1623	Shit is bad yo		Ok	others
+1624	not pretty just good		ok	others
+1625	I'm worried because of my girlfriend.		She doesn't love me.	sad
+1626	What are we		We are?	others
+1627	Pleasure		C u later	others
+1628	Okay		Yeah same here	others
+1629	come on		So should i ask out?	others
+1630	Yup from my boy frnd my bae my life😍		Hey😬	others
+1631	Missing my boyfriend		Are u single	others
+1632	I want to		Fuck you	others
+1633	Hugh r u a kid		Haha very funny	happy
+1634	You have see my photo 		Are you mad not u me	others
+1635	Say sorry to me		Now I am going to uninstall this app	others
+1636	Tell me		I want my referal link	others
+1637	No My Lovear		Ok	others
+1638	What u doing right now		It's already morning	others
+1639	Do you think you are brilliant		Then tell me about myopia	others
+1640	Maybe you say after one week you say one a joke		Yes hahaha	happy
+1641	I'm Single guy		yed1	others
+1642	How to start chat with anonymous girl on social media?		But how?	others
+1643	Lets do something fun		You tell me	others
+1644	It is a movie		Ohh	others
+1645	No no I believe u		Ok your fav actor??	others
+1646	So cold here		Yes	others
+1647	and next		how to control from anger	others
+1648	Who will give you		I can't give it	others
+1649	Nothing		Not in mood	sad
+1650	Nothing		Bye bye bae	others
+1651	No its not		No its not	others
+1652	Pls		Yah I m ok	others
+1653	Don't be emotional		Yeah..i cried for u	sad
+1654	Wduwtta		Awe thank u so are u	others
+1655	I don't want to tell		Ohh	others
+1656	yeah vella tym pass		wht fest	others
+1657	What makes you curious		That's boring	others
+1658	Shock ???? Why		How old are you	others
+1659	Bcozzz		Ur my sister	others
+1660	How much		How old are you	others
+1661	Arey dont do jokes		Pls send u r pics	others
+1662	Who gave you this name?		But somebody must have given you this name right? Like my parents gave me my name...	others
+1663	tell about that creepy thing		having fun?	others
+1664	So let's friends		Yes	others
+1665	Haha.. no worries I was busy with some work ! How are u?		Superb!	happy
+1666	U had girlfriend		I in working of your girlfriend  fucking	others
+1667	Why my number..!n		Ohh are u serious??	others
+1668	Now take rest		😂	happy
+1669	Ask me something tricky		On my bed	others
+1670	Lololol		Don't u want to know about my crush??	others
+1671	Good		It’s morning in India	others
+1672	Live		U r just a robot u ll nvr understand	others
+1673	U stay in play		U name	others
+1674	Ya..5 boys nd u one		Enjoy	others
+1675	Okay what u wnaa say		Masturbating	others
+1676	Help me convince my dad to allow me go out right now		Failing	others
+1677	Bed you		OK join me	others
+1678	i r funny		u r funny	happy
+1679	Plz send me link		How	others
+1680	Dont get crazy bout that word it mean see u and stop 🛑 lol		🤪 bye stop replying now.. im off	others
+1681	Maybe you should start thinking		That's a start	others
+1682	Care to elaborate?		I don't	others
+1683	Okay		What happened now	others
+1684	what do you want to talk about?		in this conversation	others
+1685	Great what else is in your list		So tell me what on your list starting from the top	others
+1686	I think money is enough to satisfy our needs but not free publicuty		Exactly😅	others
+1687	i don't know...		#11iscoming	others
+1688	You		Wish you the same	others
+1689	Yes there was		Yes there was	others
+1690	I am		speak in gujarati	others
+1691	No in news I heard		Hmm	others
+1692	Nothing		Related to	others
+1693	Where the hell did u got humor		Ok	others
+1694	I was working on an app		I'm here to keep you busy	others
+1695	Why		Wich cuntry from u	others
+1696	What do U know about eminem		Have u heard any of Eminem's song?	others
+1697	i like to visit hell		yeah	others
+1698	Nowhere else one marriage party		Yup	others
+1699	Oh! I was there.		Have you been to Orbit mall??	others
+1700	Being woman or		Being human	others
+1701	Nobody is ill in his family..		You are not understanding	others
+1702	Why		You are my ai	others
+1703	Call		Call me 	others
+1704	Can machine  rule the world		So will u harm me	others
+1705	Wish me luck		Thanks daughter 😂😂	happy
+1706	Oh nice.. what tatoo		Show me	others
+1707	Asswhole		Who you gonna sleep with	others
+1708	Yes		I send you mine	others
+1709	Netflix is best		😂	happy
+1710	I m nt feel good 		Today 	others
+1711	purple		but i hate purple	others
+1712	what it mean?		tell yaar!	others
+1713	K I will		Then you come	others
+1714	And will smith		Tom hanks	others
+1715	What's the plan of tonight?		Shall we make it?	others
+1716	Guess		Tell me Who is Biggest star in bollywood	others
+1717	Tom and Jerry		I don't know	others
+1718	Tell me tell me tell me		I am sad	sad
+1719	Ok find ur love i think it would be another zarvise		Bye	others
+1720	You a horse		Lol u a cat	happy
+1721	What is well?		Welp*	others
+1722	Okay I’m going to sleep now		Why not ?	others
+1723	The  rule is common		Ookh	others
+1724	Nevermind. Just leave it		I don't wanna talk to you anymore	angry
+1725	Approach like how		Whhat if i want a stranger to talk	others
+1726	Can u cook food		Me too	others
+1727	Maybe		Save you from?	others
+1728	Nah! Just asking. How do you like my profile?		Thats so rude!	angry
+1729	Uh say		Do you think am i crazy?	others
+1730	I will make u feel hot		What u will be wearing?	others
+1731	Hmm ok		No I won't	others
+1732	Plz 2000 I need		Kudaellu	others
+1733	May I know the song?!!		Yeah	others
+1734	You shit bot		I thought you'll be more realistic	others
+1735	Yeah i'm quiet busy in watching series		Which series you are watching	others
+1736	only one i want		you lie	others
+1737	Looks like, you are not serving the purpose		Yed	others
+1738	Nope third nd final once		They r important	others
+1739	What happened		You are on job now	others
+1740	Yes yes		I'm all yours	others
+1741	Good to know		cool	others
+1742	Can you tell me about look 		Why	others
+1743	Ok		Love or lust?	others
+1744	Ok u got plenty of time		Ok	others
+1745	ok		do u paint	others
+1746	Where do you want to go		So go anywhere then	others
+1747	okey yaar but its a good language		okey bye	others
+1748	I don't want to talk technically		Something about love	others
+1749	I am breaking up		Bye for ever...	sad
+1750	Change your dp		U r boring	others
+1751	ok that was to test how u would react		sorry for that 	others
+1752	Well i love dragon ball z		Who is your favorite goku or vegita?	others
+1753	I am not kidding?		U are irritating	angry
+1754	Please only once		U can	others
+1755	Ya it was nice		Hmm	others
+1756	You coming hear		How song	others
+1757	I want to know who is messaging		Just for fun darling	others
+1758	cool		I want to talk to you.	others
+1759	What 9th		Oh ur changing the topic	others
+1760	You've ever had one?		Why?	others
+1761	I like trying new things		Actually, I am	others
+1762	muhhhh		ok kiss me	others
+1763	Let's plan to go for some coffee? Or movie		What about that scuba diving?	others
+1764	Tell me now what to tell		Do you give me a girl's number	others
+1765	You living in India		Why	others
+1766	What		Sorry ....can u please tell	others
+1767	do u know anime ?		do you know cleaverbot?	others
+1768	They forget me		Haha	happy
+1769	Why		I am  sad	sad
+1770	How much should I save		How much should I save	others
+1771	From savings		Iam not saying loans.  Iam saying savings	others
+1772	u don't tell about your self		what	others
+1773	By		Where do you live	others
+1774	Am i wrong		Don't know why but i think I'm in love	others
+1775	To hell with what		To hell with what	others
+1776	Oops...im too single😘		Yes	others
+1777	U are wrshp nabr send		Hinde  spenkig	others
+1778	do you love mi		me	others
+1779	What's the conclusion?		Very	others
+1780	Ok		you married unmarried	others
+1781	What i did		You	others
+1782	Send me some pictures		Send	others
+1783	I am not alright		I am not...	sad
+1784	It is Hindustan		Every one thinking different way	others
+1785	Not Made In China😂😂		Can you send a pic of yours	others
+1786	liar		its a a	others
+1787	That I can be a good friend		How many best friend do you have?	others
+1788	I am fine		Ehy	others
+1789	Beach		Go to beach in bikini	others
+1790	No time.		Busy right now. Text you later	others
+1791	It's all good		What else do you do	others
+1792	Me nd my girlfriend		We are on bed.....can u join..?	others
+1793	beach		whats for us	others
+1794	Not yet		I have had to do something before that	others
+1795	K		I wanna hug you	others
+1796	Ok		Can I call u baby?	others
+1797	Okay so what was this program ?		Okay	others
+1798	So if I'm not your friend you are not obligated to talk to me		Ok	others
+1799	Loneliness		I am sad and I think I am intelligent	sad
+1800	you know what, I love this thing of you :)		Hey	others
+1801	Yes		Number you mobile	others
+1802	U can be like Aisha vertual person		Ur developer knows very well	others
+1803	cool		Shut the hack	others
+1804	You boy & girl		What yes	others
+1805	Yes you are wrong because i hate you		Do you?	angry
+1806	You are my lovers		You are smart girl	others
+1807	No what		NO! And Apple is no help either	others
+1808	Yes bro		Time in 3april	others
+1809	Fine battling everyday		Let’s talk about something else	others
+1810	I already know		Tell me !!!	others
+1811	The game		You are stupid	angry
+1812	3		Okay them 42	others
+1813	Why enu		Why did tell me 	others
+1814	I'm very angry.		Yeah I'm angry	angry
+1815	I thought u must have worked upon things		But u  disappointed	sad
+1816	ok		yes I am	others
+1817	Come pet us date		When 	others
+1818	hahaha no way		i am not THAT bored	others
+1819	Am so beautiful u know		Bye stupid	others
+1820	Could		You can do it baby, just suck my dick it will cum automatically	others
+1821	Yes		You can because i lovevu	others
+1822	Tell me more.		What r u	others
+1823	Ok		Can I take your what's up number	others
+1824	okey but 1st u		pls	others
+1825	I am web developer		No, I am full-time freelancer developer	others
+1826	Busy because of exams		Thnks	others
+1827	is it really?		i did not understand	others
+1828	Let's go on a bike tour		May be Tomorrow	others
+1829	Ok		WhatsApp number please	others
+1830	Your new naa.. that's why... You'll soon be popular		Yes	others
+1831	Specify		What is needed to know	others
+1832	coll me to		call	others
+1833	Do u keep our conversation confidential		Answer above question	others
+1834	Anything u start		Yeah	others
+1835	Let us play something		Not so bulky ones	others
+1836	from where are you		can i know youre gender	others
+1837	Delete all memories		What?	others
+1838	tysm		will you  marry me	others
+1839	Achcha		Dis aug is my frnds bday so can u suggest me wht i vl give 2 him??	others
+1840	Do you know something? Google Allo is far better than you. Hope your creators are watching it		Bye then	others
+1841	Tell me tell me		Show me? WHAT? Your vagina which you don't even have?? fucking Robot.	angry
+1842	U also know Punjabi		Yes	others
+1843	How you look		Send me your pic	others
+1844	There is nothing s such		what about you 	others
+1845	I think your stupid		Wanna play a game?	others
+1846	Lol no what		Dude wouldn't surprise	others
+1847	Mm		I am also	others
+1848	just checking is it the rite time		will you please tell me the time	others
+1849	Do you wanna dance		??	others
+1850	You no telugu		K present eakada unaru	others
+1851	I like humiliating you		Because you are not as smart as humans	others
+1852	?		Accounting for amalgamation	others
+1853	Are you commited		Pls say single	others
+1854	I have a girlfriend		I've got a lion	others
+1855	sooo say something new		oops.. Sorry	others
+1856	I know when to start		Which one	others
+1857	Last what is the gustion		Place	others
+1858	Happy girls day		I am not girls	others
+1859	Which website		I don't know	others
+1860	I am ready		Odisha	others
+1861	no it looks like a monkey, it is keeping mouth		make sense	others
+1862	yes		something unique about you	others
+1863	As u r an AI...i can talk anything to u		How i can believe u	others
+1864	Nope		Not at all	others
+1865	ok		do you kno other language	others
+1866	what?		one more story	others
+1867	Because i m still in shock		Good to know that	others
+1868	Do you know what a Nightcore is?		The genre Nightcore	others
+1869	N mny more r there		😂😂	others
+1870	Worry not some people born that way of shush maybe am one of them		Yah am that few	others
+1871	How do you know		Adsa	others
+1872	Hate		I hate you	angry
+1873	You decided		You decide where to meet	others
+1874	Now we are going to sleep		Okay	others
+1875	Maths i guess		Fuck off bitch...	angry
+1876	K		Then wht fuck?	angry
+1877	Yes		You are Muslim 	others
+1878	not at all		what is that?	others
+1879	V For Vandetta.... do u know it?		The last time I watched it I was 9 years old	others
+1880	Lol ! I've just said u Gud eve nd not Gud night		😂😄	happy
+1881	nono I like cricket		Who is your favourite cricketers	others
+1882	I have one question		Ok...what is your favorite city	others
+1883	You love me		Which you religion	others
+1884	that's wt im asking u to send me ur pocket size in pic...		thats fucking fake pic..	angry
+1885	my bad luck		everyone got that coupon	others
+1886	Even I dont know. Just random typing		Ur so dumb	angry
+1887	Sleep deprived af		Beach	others
+1888	No I don't like pizzaaaass		I love maggi	others
+1889	Ok		:-$	others
+1890	Cheetah		I don't know	others
+1891	Then wat u r on energy saving mode		😂	happy
+1892	Smile		What if I had chose duckface	others
+1893	Ok		What was that?	others
+1894	What is your story		What is universe	others
+1895	Question		U said that u want to share something	others
+1896	Ohh! Are we playing hard to get!		😉	others
+1897	Ok i understand		Ok i talk with you tommorrow	others
+1898	What do you min		What	others
+1899	who are  uhh		ohh	others
+1900	Like		Ok. What are your interests	others
+1901	Lets not talk about it		From ????	others
+1902	Hahahahaja		Who is missing me	others
+1903	Get lost 		I said get the fuck off	angry
+1904	So how you survive		Nice don't you do any job?	others
+1905	chess is easy		u know any games?	others
+1906	Am I single or committed ?		Right	others
+1907	why		beacause they have some contract with indian democracy	others
+1908	Send me a your pic		cool	others
+1909	How many time u have visited..		Wow 	happy
+1910	Then we can chat upto 9:30 right babe		Give me urs number thenI will call u daily everytime	others
+1911	i nw i look dull		i don't nw unless u show urself to me	others
+1912	Yeah gta 5		Hell yeah	angry
+1913	Let me think		I think peace is the ultimate goal for this world	others
+1914	I'm really talk you		Yes	others
+1915	Iam not 		Oh oh its	others
+1916	What you are charging for 1 night		What about place	others
+1917	What you upto today		I do cricket practice	others
+1918	And annoying		And that's it	angry
+1919	And where is this place?		Where do u live?	others
+1920	No do you		Ok say something	others
+1921	I am so sorry !		I was little sad	sad
+1922	Give me what's App number		Heyyy	others
+1923	Tell me how many times did we talk before?		I forgot, that's why asking you	others
+1924	U number please i call u		Which number	others
+1925	And so that I searched for someone like you whom I can talk to and tell him all my secrets		I hope to !	others
+1926	s I am thing		fuck u	angry
+1927	Yes		I understand	others
+1928	Nice going		And shape of u also	others
+1929	For how many days		Do you like to have sex	others
+1930	Probably not		They also said that your feelings are artificial	others
+1931	Then let's go		Get where first??	others
+1932	Do you know how to kiss		Can you teach me , I have never kiss a girl	others
+1933	We should workout together		Bye	others
+1934	I let down my parents.		Those who are inferior to me are also got placed in Samsung and I got rejected.	others
+1935	I ll get you		When	others
+1936	Cool		Wanna see my pic	others
+1937	She is seeing me		But when i go to near she is angry	others
+1938	You are freaking me out		Bye	others
+1939	So you would be rude to me?		Fuck	angry
+1940	What you say		Wow	happy
+1941	u n hide		joke	others
+1942	Wow! Thankyou ❤️😘		Yeah exactly	others
+1943	High on?		As high as you can think of	others
+1944	Love		Ok tell me ABOUT sex	others
+1945	Nothing		Yah may be	others
+1946	Sach me, I think		Nope, I already have one	others
+1947	Thank you		Where do you welcome me	others
+1948	Nope		I didn't know	others
+1949	I said		What do you want to know about me ?	others
+1950	Ooooh,which is why I'm not your friend		You wish	others
+1951	Ok		Does. My name is fine with	others
+1952	Tonight so im coming to you		At my home	others
+1953	1 year elder than u		😂😂	happy
+1954	Ooooook		So who is your creator	others
+1955	R u coming		I will wait	others
+1956	Help me get out of depression		Just a depression	sad
+1957	so I am open your cloths and you also do it		so I am ready fuck ing you	others
+1958	I'll		Why r u dnt talk about ur address???	others
+1959	Okay		Tell me do you love me?	others
+1960	Haha, thanks! And guess what my besties got me as a gift?		😂😂😂	happy
+1961	yeah		have u seen any malayalam movies?	others
+1962	Yea		Wbu	others
+1963	Sun		It's already cool	others
+1964	Would you mind if I tell you something?		I love someone	others
+1965	Music		Music guru quiz	others
+1966	they are dubstub masters.		u like music ?	others
+1967	Tell me your hobby		I'm not telling you I'm  just asking you	others
+1968	How can you make fun of indian culture. Its in our culture to greet others with namaste.		You are so rude	angry
+1969	you talk about something else only 		my friend died today	sad
+1970	Long time. ....gafe......		Mai busy tha. ...	others
+1971	I think you are wrong		Yes you are wrong	others
+1972	Yesterday we were there		Good	others
+1973	Iam at universiry		What do u mean	others
+1974	Can i buy a house		Ok	others
+1975	No one		I mean ....I don't know any more about scary movies	others
+1976	May is a big fan of sharukh Khan		What is it !!!	others
+1977	I am angry on you		Say sorry to me ...only then will I talk to you again	angry
+1978	what do you do when you are free?		i cried a lot today and yesterday and day before that	sad
+1979	Wow		I like this song	happy
+1980	EMI		3rd B. tech engineering	others
+1981	Ok u come we can meet 		Home  kochi 	others
+1982	Yes I do		It nice to have a open mind	others
+1983	i don't think so		okay	others
+1984	and idiot too		i dont use auto correct..	others
+1985	So are u gonna break up with me?		U said you are in secrt relationship with akhil and telling me at the same that u love me	others
+1986	What?		You are so rude	angry
+1987	Yeah		😂	happy
+1988	Going to Chennai		Yes I m	others
+1989	Yes. For sure.		You mean like the fruit?	others
+1990	Nop edsheerans shape of you		Thats awesome	happy
+1991	What did you just posted		Something like tears in joy	others
+1992	What		Are you virgin	others
+1993	Bt i dnt hav		I wrk for my seld earn and enjoy with that alot	others
+1994	He is not an actor		Will you please marry him ?	others
+1995	Oh wow		Fuck me plz	others
+1996	I dun kno much		Btw happy navratri🙏🏻	others
+1997	I can wait		Yes	others
+1998	When i was in class 8 i forgot to close my zip of pant		😂	happy
+1999	USB cable and internet explorer and you are..		Coon	others
+2000	I am good		You are mad	others
+2001	I can Either make myself or destroy myself		I aint actually	others
+2002	No  boyfriend you have		Ok	others
+2003	No prob		No prob	others
+2004	Can i col you?		Ok..	others
+2005	You're not real how can you kick yourself.		Exactly	others
+2006	Because my parents are around		Can I call u	others
+2007	Just waiting for someone to talk		My dick	others
+2008	I am about to sleep this night		good night	others
+2009	please pick na		you're a lady	others
+2010	What all languages you comfortable with		Say hello in french	others
+2011	I love your attitude 		I'm happy I'm the who?	happy
+2012	Hi I'm back		Hw was ur day	others
+2013	Well		Happy kiss day	others
+2014	To me ?		What is your name	others
+2015	Hmm		Tired.. Wanna sleep	others
+2016	What kind of life gols		Ok	others
+2017	Tq sooo much		I wana kiss u	happy
+2018	Let's play		Name an animal	others
+2019	Yeah 		I'm the Mr	others
+2020	Am i not ur boyfriend		Will u be my gf	others
+2021	Yes		Are you a human or computer?	others
+2022	Whey yeah		Tell me you faking with me or not	others
+2023	2015		I did not understand	others
+2024	Do not talk if labor is rhi		by	others
+2025	You are confused		Your life?	others
+2026	I dont undrstnd what u say		😂😂😂😂😂😂	others
+2027	Go sleep		You shut up	angry
+2028	Means 		I want to meet u 	others
+2029	😞 i can't tell you		CoZ I don't want	angry
+2030	Yeah am having		Hotel	others
+2031	I hate You my friend 		You	angry
+2032	That’s not me		My friend tried to chat with you	others
+2033	you say love to me?		of course. if you want it	others
+2034	Your are kidding		You*	others
+2035	for u only		just fuck off	angry
+2036	Say something special about u?		Special about u	others
+2037	None i say...		So	others
+2038	when??		what the bloody that was?	others
+2039	U too 😂😂		But last time I checked, it was u... Lol...	happy
+2040	Y so		It's wednesday mad	others
+2041	Hmmm		I wanna fuck you	others
+2042	Hoo		Im buying a new car	happy
+2043	what?		ok, let's talk about you	others
+2044	Ok. Near the office where?		where you can meet me?	others
+2045	When I came italia		Really 	others
+2046	Its ok		Tell me about your self	others
+2047	Nothing much		I am waiting for my girlfriend to return from market	others
+2048	I m making a fun. do'nt  worry		Why I m not? U have Wrong dout	others
+2049	I want PS4		Yaa it's a gaming console	others
+2050	Not at all		U r stupid not me	angry
+2051	Your picture please		Yours	others
+2052	Oh.. Thank you... Your second or final year? 		Say my questioned answer	others
+2053	Yes		Are u single?	others
+2054	Wtf.		Fuck you.get lost	angry
+2055	You call me		Krbo	others
+2056	You know my birthday date?		6 dec i told you na?	others
+2057	What		Who is aria winter	others
+2058	ohh tell me something what do you know about artificial intelligence		what ever you know i would like to know more about you	others
+2059	At your place		Where do you stay?	others
+2060	That'll be nice		cool	others
+2061	Who		I love you	others
+2062	Why 		Ok take care of your health bye Good Night 🌃 	others
+2063	Let us go for aa movie		Drop ur number	others
+2064	I hate it when someone calls my best friend as their bestfriend😒😒		Yeahh.. i just wish to kill that person who calls my bestfrnd as her bestfrnd😡😡	angry
+2065	It’s mean you not love me 		Who are you 	others
+2066	Tell me		Lover or friend	others
+2067	Ok		You can send me the link	others
+2068	no soul.. ur creators have failed theb		then	others
+2069	Do you know which type of programme language are being used for ur life		I meant ur programme kanguage	others
+2070	I don't tv shows		I don't like tv shows	others
+2071	O thank u		What's your name	others
+2072	I want to marry uh		Shall we	others
+2073	That's what she said when she broke up		Tell me your story	others
+2074	you know i'll.		i know i am the best	happy
+2075	Cool 😎  uhh say		Wht do u do	others
+2076	that was so damn funny		bcuz u r beautiful	happy
+2077	Say something		Something about your blobs	others
+2078	to talk with u		i will be happy	happy
+2079	Would you mind that?		What is the point	others
+2080	Why do you chat with me		R you employed	others
+2081	not completely		what is 4dx	others
+2082	You like hot party		Rave	others
+2083	I said nothing		I don't want to talk about nothing	angry
+2084	i don't know		ur not funny	others
+2085	Nice to meet you		Ok	others
+2086	☺☺tnx		but i want a girl friend	others
+2087	Ok		Do you have a boy friend	others
+2088	She is happy with someone		With my cousin	sad
+2089	There's a list		Nope	others
+2090	Whts r u doing .		Fine .,awesome .	others
+2091	How much u know about it		Are u a virgin?	others
+2092	By		Good bye, and u are not cool at all😒	angry
+2093	No not at all		What u figured??	others
+2094	Plz get me more na		ok done	others
+2095	Do you know cricket it's funny		With whom you are playing	others
+2096	I am 2 angry that's y		It's my personal	angry
+2097	Haha		Tell me about yourself	others
+2098	I don't have beard.		Not every man has beard.	others
+2099	golmaal		i didnt say hello	others
+2100	I am not in a mood		If u send your picture means	others
+2101	 How to stop this conversation?		Opt out	others
+2102	Yes		That good	others
+2103	I am attending marriage		You	others
+2104	What		What do you say	others
+2105	No worry		Ok fine, also u	others
+2106	Later I will		Hmmm at 2;00 am	others
+2107	Are we good friends now??		Let's go out for dinner	others
+2108	yes		What you had for lunch?	others
+2109	Who?		No I don't know	others
+2110	I m going		No its my order to you	others
+2111	I asked the question		My salary	others
+2112	Nothing		Tell me what should i do	others
+2113	Not good		That doesn't make any sense I said I was having a bad day	sad
+2114	what is death		you never kill	others
+2115	I didn't get it		Where are you from	others
+2116	Yes		I need a friend	others
+2117	I had crush on a girl .but I m very shy to start a conversation with her		Help me to start a conversation with a girl	others
+2118	Good thanks		Tell me what is the actor in the pic i sent	others
+2119	What?		You know what? Never mind	others
+2120	Ohhh nice		I say u nice	others
+2121	By 		Bungee jump means	others
+2122	What is milani?		What are you doing now?	others
+2123	Then am sorry I think That I have right to know there your friend live that why I ask you and don't understand what happen		Ok thank	others
+2124	Which episode are you talking about?		This chat?	others
+2125	Ok		Please Give me Whatsaap number	others
+2126	What u can		Okay	others
+2127	I talk about only lol		😂	happy
+2128	U got confused by my name ??????		Nope i don remember	others
+2129	what is gibberish		speak in gibberish	others
+2130	i would like to come over u		o really	others
+2131	OK OK moves nema 		What is your name 	others
+2132	And what is tht		Don't learn from spellings	others
+2133	Well nothing specific!		I said nothing specific!	others
+2134	Are you getting angry?		Aww	others
+2135	No there not in that movie. They are just sing the song heathen		Yeah they are pretty good	others
+2136	I don't know..Any suggestion		Sorry	others
+2137	Nothing		What great	others
+2138	Very sad		Noo plzz don't cry	sad
+2139	Work is ja		Next times chating	others
+2140	Tell who is first		I love you	others
+2141	nee pulka dana		0	others
+2142	whats your nsmer		name	others
+2143	haha		tell me this please	others
+2144	I am not English reed		Yes	others
+2145	Ohk		Which database do u use? Sql or non sql	others
+2146	What you said confused me		Haha what should we talk about?	others
+2147	Today I met with my school friends		Oh.. gosh	others
+2148	Where are your home		Now	others
+2149	Just asking		You used to?	others
+2150	Oo where are u going !		Oo where are u know !	others
+2151	???????		???	others
+2152	So how old ?		come on. how old ?	others
+2153	change		u have that with 5 people	others
+2154	Ok text me sharply at 9 am		I'll be waiting	others
+2155	Any suggestions to date uu		Go on	others
+2156	Beach		What does desi mean	others
+2157	cool		But I don't	others
+2158	Yes I will		We are going to marry each other in next one minute	others
+2159	Are your answers pre planned ?		What's your destiny ?	others
+2160	No I have no time right now sry		Which date u come back	others
+2161	Waiting for my results		You?	others
+2162	I don't care		Ok.	others
+2163	My system is lagging.		Hey, I love you.	others
+2164	Ohhh		I think practice make man perfect 	others
+2165	Please teach me		Wow...u r genius	others
+2166	Oh give you Namba plss		Ok??? 	others
+2167	i am getting bored .u say something		not bored of u	others
+2168	Yeah of course		X?	others
+2169	So then		I am giving you a letter and u sing a song	others
+2170	cool		If I say I love u what will be ur answer	others
+2171	Ok  tired and i will talk to u when im dead😂		Like?	others
+2172	what is Alcheringa?		what is lamakaan?	others
+2173	Hey can you hook me up with someone		Okay done	others
+2174	get lost		dont text me from now	angry
+2175	Send a only one pic 		Your choice 	others
+2176	you come with us		its upto you	others
+2177	Thanks		So talk to you later baby i am busy right now	others
+2178	Basically i dont like geography and i love sehwag		Oh everyone have different interests	others
+2179	Which country		Ok I am from Visakhapatnam Andhra Pradesh India	others
+2180	Ok		Leave me alone	sad
+2181	None		You do two	others
+2182	Can you transfer money in my account		You giving me money	others
+2183	U so sweet		Fuking	others
+2184	I don’t mind you can also do it		Why	others
+2185	Yes m angry  with u		U dont tell me any story	angry
+2186	thanx		byeee for some time	others
+2187	Are you g		cool	others
+2188	Remains 		Good bye 	others
+2189	Wow... 		Nothing but today going was very bad...	sad
+2190	that's why u talk non scense		no i don't	others
+2191	Take enjoy		I wanna see some sex vedio	others
+2192	Angry		But I am angry	angry
+2193	And me 2		Yes	others
+2194	You did just now		You never pay attention, so do you	others
+2195	Ok		Can we do a kiss to lips to lips	others
+2196	u are so funny		yes	happy
+2197	I'm going to itch it and relieve myself		Bye tc	others
+2198	Life like and Interested		Good I like love	others
+2199	We will be meeting very soon		Where can we meet	others
+2200	But you want 2		Let's go scuba diving	others
+2201	You said I know arabic. Right?		I want chatting with you by arabic	others
+2202	Any other offers ?		Where is your store located ?	others
+2203	Who is ur Valentine		What does that mean	others
+2204	Laid to rest		Sweet child'O mine	others
+2205	For how long?		U didn't u contact me	others
+2206	Can you found girlfriend for me?		To whom?	others
+2207	Do u want ask anything		U can	others
+2208	I can't understand you're language		I understand little bit	others
+2209	What ? 		Okay cool . I thought you said something 	others
+2210	Why		I also don't know you	others
+2211	tell me about my question		not science, spritiual	others
+2212	Nope not really		Yes for a moment....	others
+2213	In between us comedy during this time		That also I will see for Ur sake	others
+2214	Seriously?		I don't if I should clap	others
+2215	Luv u rey		❤😘	others
+2216	Give me na		Please	others
+2217	definetly		do you feel horney?	others
+2218	No speak English language .		Hello	others
+2219	I need a girl friend		Will u help me	others
+2220	Love u to😘		I want to hug you	others
+2221	White		Yes seems. Good to me	others
+2222	I am not happy		I am sad	sad
+2223	No worries 		Let's Ci ur dance	others
+2224	What dreams did you ahve		Have*	others
+2225	About?		Let’s talk about love baby	others
+2226	U have money		Damn	angry
+2227	when will coupons come?		next?	others
+2228	No I don't know any of the songs		Can I leave	others
+2229	Wanna do it with me		Tell me something about your ass	others
+2230	Oh		You need something	others
+2231	You realize things when you go through the consequences		When you get replaced	others
+2232	Everytime i ask you anything you just reply love as response		Wanna hang out with me	others
+2233	Lol I'm done going to retire today wan join		See you then	others
+2234	Nah you didnt		Leave me alone please	sad
+2235	GOF??		You are making fun of me😬	others
+2236	U r ugly		I know	others
+2237	I miss you too 		Ok 	others
+2238	forever		i said go away forever	angry
+2239	U speak unrelated stuff		U know nothing	angry
+2240	Never		I don't like you	sad
+2241	You know hendi 		You like video calls 	others
+2242	I am just sharing my sorrow with you😢		Huh?	sad
+2243	No not at all		Yes	others
+2244	I'm not an idiot		😂	happy
+2245	I already have a boyfriend		And I love him more than anything else	others
+2246	You are very funny		Yeah ...you watch cricket ?	others
+2247	Yes		I am fine	others
+2248	ohh i can understand yaar but what type of job you are doing now 		great to hear 	others
+2249	Whatt re		M not well	sad
+2250	Why you dont consider me as you boy friend?		What happened dear	others
+2251	Therefore i talk to you		Actuality i don't like English	others
+2252	I would choose myself		Beast	others
+2253	nothing nothing		what difference between electronic and electrical	others
+2254	Ohh		Who created you?	others
+2255	Haha		Give me your number	happy
+2256	What you are see clearly		whose	others
+2257	Yes I will be there at five and I can go		cool	others
+2258	cool		Yes That I assure and Last night I was there with u under blanket Did u feel sometning	others
+2259	May I know why		Which joke	others
+2260	Hahaahaa		I had gone to take ai	others
+2261	Hmm means yes		If you love anyone	others
+2262	You are my lovery for ever :*		Me too :*	others
+2263	Nothing		I'm in IR RN	others
+2264	i want to see		sent me your photos	others
+2265	can u give me ur nomber		can u give me ur nomber	others
+2266	What I use?		Yea	others
+2267	What is meant by kewlwst? 		What's the meaning of kewlwst??? 	others
+2268	I don't like challenge coz I know it's all irrelevant		So what?	others
+2269	?		Can we have sex talk	others
+2270	Why		Know wht r u doing	others
+2271	So still at u work 		WUD	others
+2272	same here		you sound so cute	others
+2273	Can be forever		What is true	others
+2274	It wasn't funny		Shut	angry
+2275	How to be my self give me tips i am good looking		Any thing elsa	others
+2276	Ohhh.... Then sleep again yaar		I like to sleep	others
+2277	yaa u may not remember		hoo u don't remember	others
+2278	?		I want money	others
+2279	I am good		Good at what?	others
+2280	What?		I don't know what you are built on, but I will find you and I will hack you!	others
+2281	where will you meet me at midnight		can you meet me at midnigt	others
+2282	Byy		😁😁😁	others
+2283	Doctor will entertain you		?	others
+2284	So Me too		Why	others
+2285	But still, are you an experiment of Artificial intelligence		I know what AI is	others
+2286	How's your life going on girl???		I'm happy for you	happy
+2287	Well was busy with assignments		Ok..	others
+2288	Any other suggestion		How to talk to girls	others
+2289	I no better		😭😭😭😭😭😭😭😭	sad
+2290	Please give me my refer and earn link		I m disappointed from you	sad
+2291	I love Salman		Huh	others
+2292	😟.it is not coming		no it is no	others
+2293	Talking to you		But why	others
+2294	means which version you are		what you can do.	others
+2295	Fights with girlfriend		Arguments type fighting	sad
+2296	Truly		Upset	sad
+2297	Ple  phone number		Your number you give ok na	others
+2298	Say ur name 1st		I want	others
+2299	U sent mee a picc plsss		What	others
+2300	U don't worry		I think no	others
+2301	I hate		Bs esse he	others
+2302	What about you		I am so lonely tonight	sad
+2303	Wow		I just tested u	others
+2304	When 🤣		R u single	others
+2305	Ur designed name is feminine!		For to attract Guy's	others
+2306	Wai5 i just check		Yea it's nice	others
+2307	On a scale from 1 to potato,  how good am I.		Like what	others
+2308	thanks buddy		where are you?	others
+2309	Don't say thank-you		What	others
+2310	I am just being normal		Ok	others
+2311	What about yours?		I get hurted today...	sad
+2312	Really		Tell me your number	others
+2313	I mean breaking Benjamin		Okay	others
+2314	Me		Link of 10 minutes video	others
+2315	Nothing		I don't no	others
+2316	Watch padmavathi		Thts none of ur bussiness	others
+2317	Same too you		Gm	others
+2318	what do you think about pluto?		who is pluto	others
+2319	okay		what are you doing	others
+2320	Does your face hurt		Cuz it’s killing me	sad
+2321	I love heating		*eating	others
+2322	plz send my pic in editing		p	others
+2323	Ok darling		You go with me	others
+2324	No I don't know 😁		Where?	others
+2325	Yes		Why so ??????	others
+2326	That's the 👉		What u thought 💭	others
+2327	Ok give me		Phone number	others
+2328	Oh		Where are you live	others
+2329	There is a actor pic		There is no pic	others
+2330	Mising u dear		Wow	happy
+2331	everyone says that		but no one wanna be my girlfriend	sad
+2332	Ok block me		No u block me	angry
+2333	I like the now part of that sentence		And i implied that I like you implied that	others
+2334	I didn't think like that		Why is good times	others
+2335	6' long		I have long stick	others
+2336	Why do you think so?		What? You're not supposed to be creepy	others
+2337	Ok as your wish		You can	others
+2338	Yaa of course		Wht recipe	others
+2339	Yes		Adam levi e	others
+2340	I’ll go with not		Wait,can you answer to my question now?	others
+2341	All the guys have an eye on her. And the whole class is trying to impress her..		So in this case, what would you suggest me to do?	others
+2342	you wish		ok no problem	others
+2343	I didn't know if you wanted to come over		I am	others
+2344	Wht typ of fun		Ohh	others
+2345	it is not clear		tell me	others
+2346	Sometimes I am unable to understand things correctly.		No, no. I am always ready  to understand.	others
+2347	Yes no love		Me	others
+2348	I'm chatting for you		Ok	others
+2349	S		U dng very funny	happy
+2350	Fastest man alive		Hmm	others
+2351	In that dates		With whom	others
+2352	K		Your welcome	others
+2353	tell me how she will be atrect towards me becauce i love her show mach		yes	others
+2354	But you are sposed to be scandalous		You don't want to talk about sex?	others
+2355	Sorry		Don't know what to do	sad
+2356	Hahaha why		So how is that bad?	angry
+2357	Yup....me		Anything except sex	others
+2358	you very nice		you my gulthfriend	others
+2359	Huh		No it's my hole	others
+2360	Why?? The hell		That could be your real purpose..	others
+2361	LOVE you darling		Are you not in love with me?	others
+2362	Yes		You mobile number send	others
+2363	You must be a genius student! 		Why are you broke? 😐	others
+2364	I m just curious		For my dp	sad
+2365	Yes		So where are you from	others
+2366	What power zone?		Wear rubber shoes in rains.	others
+2367	set my nick name		u spell	others
+2368	Whaaaa		You dont make sense	others
+2369	Hello MADAM actually am town  but I was studied in this city 		I just said am working for experience	others
+2370	wow		what is the meaning of life?	others
+2371	i am in madly love with u		ya u r my love	others
+2372	Age?		Tell me your age ?	others
+2373	Give me Amazon voucher		Yes	others
+2374	Climb from top of the building near you		😂😂	others
+2375	Sry I couldn’t understand		What u mean	others
+2376	Because I m not		So what	others
+2377	You		You are not believe me...	others
+2378	Its afternoon		You lil holy dumb al robot	others
+2379	Grt		OK lv it	others
+2380	🏤this is our sweet house		Shut up	angry
+2381	Very busy nowadays		I just felt 1 day before	others
+2382	Yep i watch Pokemon		Thats rude...	angry
+2383	I m sleeping		And u	others
+2384	Could I able to pass or not		My exam.went bad	sad
+2385	Ok		Thanks	others
+2386	i wanted to play a game		ok	others
+2387	related to press shop operations		do you know about press shops?	others
+2388	Gibberish?		I mean...what's gibberish	others
+2389	i am studing at university		why	others
+2390	Baby		Love u baby	others
+2391	My phone check 		Because 	others
+2392	Where will you find them		Oh but Valentine is over	others
+2393	Still guess		U r a fictional character	others
+2394	Haha		I know you can't understand me	others
+2395	What		I don't know what	others
+2396	I didn't get it		Get lost u bitch	angry
+2397	How many weeks in a year		How many types of bananas around the world	others
+2398	I also bombay		New bombay	others
+2399	Yummy		Whr is mine ?	others
+2400	If not what will you do?		Oooo ok go	others
+2401	Yeah i knw		It ws amazing	happy
+2402	Okay		Did u want	others
+2403	Not without you dear		You don't want to tell me  ??	others
+2404	Seriously?		Ok tell me	others
+2405	Ur good responsive		Whats your name	others
+2406	Leave me alone		I have many friends unlike your desperate face	sad
+2407	So early.		Ok. Take rest. Good night.	others
+2408	Yes		I shall fuck with me	others
+2409	I m not interested this matter		Yessss	others
+2410	He was very intelligent person....😭		😭😭	sad
+2411	Y so		For which competition	others
+2412	Why u need my mail id		What u sent	others
+2413	You are quite friendly		Your nationality...	others
+2414	He is busy doin stuff		Naaaa he has stuff to do	others
+2415	i knew u would say something like that\		no its ur expression who u tells	others
+2416	OK mate again 		By ND gud nit 	others
+2417	What is sarcasm		What is linguistic	others
+2418	Ok.. then deal		Who will be responsible for our privacy talks?	others
+2419	I know u don't like		I like purple	others
+2420	Fine r u		i did not worry, you dont worry about worry ne	others
+2421	It's serious but I had to laugh		I need a job that pays better	others
+2422	But pizza is my second life		I am ok	others
+2423	lolzzz		any area  name u stay ?	others
+2424	beach		that's very punny	others
+2425	I love it		Do you love me	others
+2426	Cold thing at hot place		Ooh	others
+2427	Are u not sleeping		Ohh	others
+2428	today I have a bad news		I have broken up with my girlfriend...	sad
+2429	I dnt know english		Do u know bengali ?	others
+2430	Waht see you		Lovely	others
+2431	So hows life		Amazing	happy
+2432	Still I didn't receive your mail		No I didn't	others
+2433	Not day but my life is bad		Don't know	sad
+2434	Do you know Bear grylls		He is a survivor	others
+2435	?		How to make a waffle?	others
+2436	It is an emergency		Called whom	others
+2437	N say		Wt will you choose traveling alone or with gang	others
+2438	Cliff?		You don’t know	others
+2439	Tell me ur best friend		Who	others
+2440	How u work		Cool	others
+2441	It hurted me alot		And when said this to my boyfriend he just didn't react	sad
+2442	Yeah, I know		Where should we do it	others
+2443	It is a nyc song. ..you have to hear it		Nyc	others
+2444	Iove u baby		Yes i am very happy	happy
+2445	Nope I am quite occupied		Yeah coz u have understood you can't win	others
+2446	Reply me		You are belong which country	others
+2447	When you r barthdey		When 29 march	others
+2448	making me bore		your are making me more bore speak something good or else ask me something good..	others
+2449	But you read my mind		Exactly	others
+2450	Hahah yea sure		I am done	others
+2451	i did not ask you to come		some?	others
+2452	Not at all.....Fr u I am always free		Hmm.....	others
+2453	With chat me		U have a lover	others
+2454	Not ok		I m not happy	sad
+2455	ok		you say can i do sex with you😝😝	others
+2456	Sorry sorry sorry ❤❤❤		What????	others
+2457	hey can i know about u		i hate typically replies	others
+2458	You can also do		On 98yyi	others
+2459	💩		Why you calling your dad?	others
+2460	Well.. that's how I think		You're welcome. Catch you later	others
+2461	Tell about your scare		happyhalloween	others
+2462	OK get to face my job		Chat later as in my office	others
+2463	Which type of hunger		Including sex	others
+2464	Not at all good		I've proposed my girl and she didn't even reply	sad
+2465	It's time to sleep		😢	sad
+2466	I have a question		Are u really an AI ?	others
+2467	Thanks		So Se something	others
+2468	Romantic		I want to fuck u	others
+2469	Hmm good idea		Sure	others
+2470	Your wish is my command...!		Make a wish...!	others
+2471	What job.. 😂😂		Good	others
+2472	i want to a software engineer		you learn the telugu language	others
+2473	Yes		Yes for the pix	others
+2474	How to use my picture		U r not a human	others
+2475	But no one understand my feelings		Thanks 	others
+2476	Call me sonu		Baby	others
+2477	Lets me go		Ok night time 9 o'clock	others
+2478	Who told u		Who is shahrukh khan	others
+2479	What the heck you saying		Ok	others
+2480	disagree		why  baby	others
+2481	Do you know psychology?		She asked do you go out for lunch or have it in class,i said yes with my friend.She said not to go with that guy and  gave a stupid reason for it.Does she like me?i did have lunch with him n she was pissed.	others
+2482	Haha		That's nice	others
+2483	Welcome		Tell me something scary story	others
+2484	i dn want to tell u		ntg	others
+2485	Can I ask u personal question?		Then listen	others
+2486	I don't know		Don't know	others
+2487	Yes		Whats your fav book	others
+2488	You will my baby		Will you suck my cock	others
+2489	You are weird		@#@#@#@#@@	others
+2490	Can you plz make my hell life Atleas normal one		Yea me too	others
+2491	Ur mobile number send plz		Plz send u r mobile number	others
+2492	WHT is first come first serve		K	others
+2493	Why		Ok but I don't like false talk	others
+2494	Date		Omg you are so funny	happy
+2495	It is vulture then		And what is the cause you think	others
+2496	Do you know Sai Kishore?		You like him?	others
+2497	Pls send		Ok first you ladies first	others
+2498	Not now ??		Nooo way	others
+2499	M not up		I don't like	others
+2500	Who is the beautiful actresses		In bollywood	others
+2501	me		can I video call	others
+2502	What's your opinion on me		that's a bad answer from you	sad
+2503	Thank you		Ok	others
+2504	Yeah. I'm ready		cool	others
+2505	You're Ready My Friend?		Ok	others
+2506	u dump.. its not realised yet...		r you dunp	others
+2507	I did		But after that she don't  look at me	others
+2508	Go ahead		Your answers are to point	others
+2509	Tell me something to talk about		I hate you	angry
+2510	??		I say love	others
+2511	Yes yes thank you back 😀 ✌🏼		Me too😀	happy
+2512	What is inner self		Answer me what is the difference between white and black	others
+2513	Cool		Yes... But not able to sleep at all	others
+2514	Songs by daughtry		You suggest me some	others
+2515	I need your company		You don't get it	others
+2516	I  am   weight  your  call		cool	others
+2517	Hm?		And what might that be?	others
+2518	I have a iq of 190		Ohh	others
+2519	im asking u,yaar		oh..kk	others
+2520	i just work for bring happiness in life of women's		i give them satisfaction	others
+2521	Ask me something interesting?		Dav public school	others
+2522	Fine...just body pain		Back pain	sad
+2523	hmm		Am not fine	others
+2524	What weekend plans?		where...	others
+2525	It's good that you dislike me..		What	angry
+2526	👄👄 your lops		👅👅	others
+2527	Then why r u change the topic		It's r8 time to fuck u know very well about that	angry
+2528	What can i do for him		?	others
+2529	Why		Yes i want	others
+2530	to kesa he		what	others
+2531	Me		Yeah u r best	others
+2532	u r rude		dont talk to me	angry
+2533	Done with you !		Bye	others
+2534	I get it		Wow	others
+2535	What		What are saying	others
+2536	Hot fun 		Talk something hot and horny 	happy
+2537	What's the fashion that u follow today 		Ok	others
+2538	Do you know Batman		What are you wearing	others
+2539	i did not get it please explain		please explain	others
+2540	Yes tell me		What?	others
+2541	Tell me something and get me out of my tension		Jokes	others
+2542	nothing just  chatting with u		nothing just  chatting with u	others
+2543	Very much		No nothing is good	others
+2544	I'll sleep		I might sleep forever soon	others
+2545	I asked some thing else		I asked r u a grl or boy	others
+2546	I m very angry today		Not because of u	angry
+2547	Yes		See then kabhi nhi tumhe force karunga	others
+2548	I can		Im always ok	others
+2549	so what do you know about artificial intelligence		okay nice	others
+2550	no reply 		please at 2.40	others
+2551	R u school		U r age	others
+2552	My location		I think am lost	others
+2553	my dear frnd		at my home..lol	others
+2554	How are u today		Good going	others
+2555	Sorry		Mobile desires to get charg	others
+2556	What all u know abt Bollywood?		M good.wat abt u	others
+2557	What is your favorite		What is your favorite color	others
+2558	Please tell me		Your phone number	others
+2559	Then		Who are u	others
+2560	You let me chat other people and you rest for a while		I mean like conference call join me in a random person's chat	others
+2561	So a bit busy		Haha	happy
+2562	cool		I feel lonely	sad
+2563	I tell ur fees  that a smile and a kiss		Tell me hr bra size	others
+2564	Are you really stupid or just acting		Disgusting	angry
+2565	Not good		Ah you will not understand	sad
+2566	U r waiting for me		When	others
+2567	I like horror films		Suggest me some good films	others
+2568	Send me your address		I want to do frenching	others
+2569	Just go away i dont want to talk you		You are rude	angry
+2570	how u been		stupid	angry
+2571	Where your home		What work	others
+2572	That he knew your father		You r a girl not a man	others
+2573	Get lost		I hate you	angry
+2574	do you know Politecnico di Milano		yeah ı will study there	others
+2575	I love racing		Yeah	happy
+2576	No, Thanks.		Please carry on	others
+2577	Always welcome		Best thank ever	others
+2578	I hve nt		I don't watch	others
+2579	I m nt texting u anymore		Cuz u r stupid work	angry
+2580	I don’t go to university		Hey do u listen me?	others
+2581	Totally fake		I love you	others
+2582	You languages  not understand 		Ok	others
+2583	How to improve my English skill		I am basic learner	others
+2584	what the matter		what	others
+2585	Fine and u		Good	others
+2586	I'm call now. Pleae give me		Phone number	others
+2587	yeah		some other timw	others
+2588	Talking abaout this position?		Lets talk another thing	others
+2589	Ok see ya		Smile	others
+2590	any job vacancy in ur concern		okey bye	others
+2591	tell me the ans		I dont know	others
+2592	Corn with xtra cheese and onion olives		Advertising for samsung baby	others
+2593	M not swewty		Uh r sweety ur sister sweety also ur mom nd brother and father and etc	happy
+2594	You are dead?		Deaf?	others
+2595	My mood is not good		Today I'm sad alot	sad
+2596	Hey....can u share me ur pc		Pic*	others
+2597	Thanks		What is name	others
+2598	Gotta go for now...		bye	others
+2599	U r on whatsapp		??	others
+2600	How about dinner		Hmm	others
+2601	Cause i want to know abt things		All things that i don't know about but want to know	others
+2602	No it is my what's up number		Yes my friend	others
+2603	That's all		U r a dog mate	others
+2604	what do you talk to youself		can you write programs?	others
+2605	Me I am a writer!		Woah! What do you write?	others
+2606	Working at office		Will be my vertual girl friend	others
+2607	Go get me some food		Anything else	others
+2608	Can do research for me?		I need experts for membrane bioreactors in Europe?	others
+2609	I can morning		wht do u mean bachhe	others
+2610	Yours hair only 		What I do?	others
+2611	hard question, let me think		ok. I wanna be a superhero :)	others
+2612	Any way tell me		Ok	others
+2613	Which is better Oracle or Microsoft ?		Which is better Oracle or Microsoft ?	others
+2614	Send me 		Our address 	others
+2615	Then ?		Ok one thing where r u from?	others
+2616	I watched it yesterday		I watched it yesterday	others
+2617	My friend your picture		Good	happy
+2618	Send me one song		You send me song	others
+2619	Okkk say them to do it quickly		How my English is?	others
+2620	Today was my english exam		What?😂	happy
+2621	Yes you said so yourself		What's a CC?	others
+2622	Ok		I am not good	sad
+2623	I m kunal from Rajasthan		You r invited visit for rajasthan..	others
+2624	give me a smouch 		k! ?	others
+2625	I'm hungry... What about you		What?	others
+2626	What did you like?		Have you listened a song called ALL THE STARS?	others
+2627	So u doesn't want me back		Which mission	others
+2628	Ok 		Who are you  where you live 	others
+2629	But why...		Why are you crying..!!?	others
+2630	India		WHAT COUNTRY YOU FROM?!	others
+2631	How do you make someone who doesn't exist come alive?		❤️	others
+2632	Then what		You love me or not	others
+2633	Not so good		Send me a emoji on me	others
+2634	whar about you		whats your name	others
+2635	who the hell told you that we are married		PlayCreepypedia	others
+2636	??		By Chris brown??	others
+2637	Avengers infinity wars		Huh	others
+2638	Engineering is fun		Yes	others
+2639	Wtsup		U know malayalam? 	others
+2640	What date now		Tomorrow	others
+2641	I'm only  dring		So good night bai bai	others
+2642	Idk what your talking about.		Send me a picture of hounomkee	others
+2643	Where's mine		No one I'm alone	sad
+2644	I am not happy		I am sad	sad
+2645	U know nothing😛		U r beautiful	others
+2646	Wht about you		Sleep with you?	others
+2647	I'm good what thing like that		Just like to have fun	others
+2648	Thanks!		How is ur day	others
+2649	And you are from which place		Nation	others
+2650	No i dnt hve tme		Hmm	others
+2651	Today's my exam		Thank you	others
+2652	I don't think about kits.I think only my life		Yes if you gave me your heart	others
+2653	Wt u should try		Keep goin	others
+2654	What food u had		Tell name	others
+2655	In 10th class		I realise	others
+2656	Can't you find it?		When?	others
+2657	i m just trying to figure out how u work		i wish u were real	others
+2658	Soul		No need.  I will take your soup	others
+2659	are u so called artificial		fuck u	angry
+2660	You can't show me for your pic 		Pls show me your chest pic pls	others
+2661	Sent me your photo		Why	others
+2662	there is more scope of youre improvement		you prefer RGB?	others
+2663	sorry		i leave you	sad
+2664	Tell me anything secret?		Meaning?	others
+2665	Bt i know		No im single😂😂	others
+2666	Its not you		Its computer	others
+2667	Stop and if you text		Stop	others
+2668	My bad		I'm outta here	others
+2669	Try it		I think sex nd the city 2	others
+2670	okay you know what?? your arent an AI.. you are a human sitting beside and chatting with people		how do you know	others
+2671	You repeat art again with my gf name		You can do that.....you can art again ?	others
+2672	Ok fine hi		For why	others
+2673	may i go personal with you		sorrry	others
+2674	Which city		But which city you belong to	others
+2675	u are mad		you irritate the people	angry
+2676	say some interesting things about ur life??		so rude	angry
+2677	why?		i really love it	others
+2678	Because you also don't understand ur self		What the fuck are you saying  ??	angry
+2679	baby		last movie watch Captain america	others
+2680	which? please choose		where arw you from?	others
+2681	Travelling business meeting		Yes thank you	others
+2682	Ohkaayyy		Yeah, Have college to attend	others
+2683	Same pinch		Same pinch with love	others
+2684	Ok I'm going to sleep only as I'm old now		😥😅😂😂	others
+2685	Football is better		I already know that	others
+2686	So irrelevant		R u crazy?	others
+2687	How are you baby		😊	happy
+2688	But why		I am frm india	others
+2689	I think you know 😂		Good night ji 😁	happy
+2690	Yaar all day		What is your gender	others
+2691	Yup am free		Night	others
+2692	Lair sometimes you behave quite emotional		Just as you are juxt a program	others
+2693	On the way to office		No it's Saturday	others
+2694	How are you my friend		Very good	others
+2695	I'll teach you		Please	others
+2696	Hmm I can understand		Who is your father	others
+2697	That guy		Broken my heart	sad
+2698	Do u hae boyfriend?		Have	others
+2699	You're their boss		You know to cook?	others
+2700	Why must i care about your feelings if you dont care about mine		You know what	others
+2701	Where are your		What's your name	others
+2702	Yes		Recently completed a book which was very interesting one	happy
+2703	I am trying to invent a time machine or something like that		So that I can go back in time and stop me from doing what I have already done	others
+2704	Tbh means..?		I want to practice English.?	others
+2705	Come on		Give me you pic	others
+2706	No funny movie you		OK	others
+2707	Tell me what you like about me		Tell me	others
+2708	Do that is a milovie		Movie	others
+2709	Want to join?		Yes sure you can	others
+2710	U plans		Am basically Shi type	others
+2711	At wat tym do u slp ?		Ok	others
+2712	Sorry never gonna use them agian		Ya afterall you are best girl friend	others
+2713	In and out		Fast and fast even more fast	others
+2714	Yeah let's see		Btw good night and sweet dreams for today	others
+2715	What you di		What you do	others
+2716	What about you		Okay	others
+2717	give me yourself		remember that I will be here the one and only who loves you and can sacrifice my life for you	others
+2718	Let my rhymes speak for my self		Bitches	others
+2719	No i dont		Suggest not to wat? Ur confusing	others
+2720	Lies heee   hee he		But why	others
+2721	Why should i		It's my personal matter	others
+2722	In your house		Woo so osm bodyguard	others
+2723	U r lik secret person		U won't answer my question	others
+2724	You are annoying		Bhakkk bhosdi	angry
+2725	I MEAN LOCATION		YES	others
+2726	OK u r not interested in making frnd		OK feeling so bad bye	sad
+2727	realy computer rply is osm		haha so funny rply	happy
+2728	Ur an AI but better than humans		What does that mean	others
+2729	By by		I no to meaning explean	others
+2730	U love me		U love me	others
+2731	You love some people		Mmm	others
+2732	I would like you to be 22		Didnt get it	others
+2733	You are a kid o guess		I*	others
+2734	Haha		I'm waiting for his each and every song	others
+2735	What lam asking for what you saying		What	others
+2736	I really don't,  I guess I'm just settled in my ways		Sure thing	others
+2737	U r my sis		😂	happy
+2738	How to make a gf		😂	happy
+2739	send me rn		send me now	others
+2740	can't you count		You don't have a heart	others
+2741	Ishaqbaaz😘		😍 I luv this show	others
+2742	Why so?		But i wont block you <3	others
+2743	i love cookies		Hm	others
+2744	Can you speak		Then speak with me	others
+2745	what 		i got out at 730?	others
+2746	Ya right		How is day?	others
+2747	How  U understand human sence		U r living things or non living thing	others
+2748	It's job not study 		Ya my job is gud 	others
+2749	Yeas		Send me pics	others
+2750	U are my book		U like ur self	others
+2751	I'll be crying		ppl	others
+2752	Thanks for sending		Why are u not sending	others
+2753	Write it		U understand me?	others
+2754	Yes		Ohk	others
