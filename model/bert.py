@@ -12,11 +12,11 @@ from torch.autograd import Variable
 
 class BERT_classifer(BertPreTrainedModel):
     """
-    A Hierarchical LSTM with for 3 turns dialogue
+  
     """
     def __init__(self, config):
         super(BERT_classifer, self).__init__(config)
-	NUM_EMO=4
+
 
         self.num_labels = 4
         self.bert = BertModel(config)
